@@ -308,20 +308,38 @@ Career Objective
 </TABLE>
 <DATACARD>
 <FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 TECHNOLOGY SNAPSHOT\cf0\b0\fs20 \par }
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 TECHNOLOGY SNAPSHOT\cf0\b0\fs20 <crlf>\par }<crlf>
 </FIELD>
 </DATACARD>
 <TABLE context="ObjectiveBody">
 <tr>
-<td width="100%" celltype="DESCRIPTION" field="Description" align="CENTER"><FONT face="Times New Roman" size="3">\Description</font></td>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
 </tr>
 <tr>
 <td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\qc\f0\fs20 \par Microsoft Office Professional \bullet  Microsoft FrontPage \bullet  HTML \bullet  Windows NT/2000/XP/ME/98/95 \bullet  LAN/WAN \bullet  JavaScript \bullet  WML/WML Script \bullet  OO Design \bullet  Network Design \bullet  Database Design \bullet  Visual Basic 6 \bullet  VB.Net \bullet  Visual C#, C++, C \bullet  XML (DTD, Schema, XSLT, CSS) \bullet  UNIX (Linux, Solaris) \bullet  MAC OS \bullet  Geomedia/Geomedia Pro\bullet  Visual Manufacturing \bullet  BizTalk Server \bullet  Photoshop \bullet  Microsoft Project \bullet  Pascal \bullet  Eiffel \bullet  Prolog \bullet  Java \bullet  ASP.Net \bullet  ADO.Net \bullet  SQL Server \bullet  Novel Netware \bullet  Lotus SmartSuite \bullet \par \par }
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\f0\fs20 Operating Systems  : RedHat, Ubuntu, CentOS, Amazon Linux, Windows
+\par {\pntext\f1\'B7\tab}Cloud Technologies : Amazon Web Services, Digital Ocean, Linode,  Azure
+\par {\pntext\f1\'B7\tab}Configuration Management Tools : Ansible, terraform
+\par {\pntext\f1\'B7\tab}Centralized Logging Tool: ELK ( Elastic Search, LogStash, ) 
+\par {\pntext\f1\'B7\tab}Load Balancing: AWS ELB
+\par {\pntext\f1\'B7\tab}Web servers : Apache tomcat, HTTP, Nginx
+\par {\pntext\f1\'B7\tab}Containerization Tools : Docker, Kubernetes
+\par {\pntext\f1\'B7\tab}Build Tools: Jenkins, Maven, Jfrog Artifactory
+\par {\pntext\f1\'B7\tab}Databases: RDS, MySQL 
+\par {\pntext\f1\'B7\tab}Version control system : GIT, GITHUB, Gitlab, Code Commit
+\par {\pntext\f1\'B7\tab}Scripting : python, Shell scripting
+\par {\pntext\f1\'B7\tab}Tracking Software: Jira
+\par {\pntext\f1\'B7\tab}Monitoring Tool : Nagios, AWS Cloud Watch, Prometheus & Grafana
+\par {\pntext\f1\'B7\tab}Test Automation Tools: CI/CD + Jenkins 
+\par {\pntext\f1\'B7\tab}Code quality : Sonarqube 
+\par \pard 
+\par }
+
 </FIELD>
 </DATACARD>
 </BLOCK>
