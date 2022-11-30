@@ -1,0 +1,2445 @@
+<COMMENT>
+The resume you have opened was created with ResumeMaker. 
+Please ask the sender to convert the resume into a Word document,
+Adobe Acrobat PDF, or Plain Text file so that it is viewable without the
+ResumeMaker software.
+</COMMENT>
+<spellcheck>
+
+</spellcheck>
+<DOCUMENTTYPE doctype=Resume version=R20>
+<FONT Name="Heading" face="Times New Roman" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="Description" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="DegreeType" face="Times New Roman" size=9.75 Condensed=T BIU=TFF></FONT>
+<FONT Name="Delim2" face="Times New Roman" size=9.75 Condensed=T BIU=FFF></FONT>
+<FONT Name="Degree" face="Times New Roman" size=9.75 Condensed=T BIU=TFF></FONT>
+<FONT Name="SDelim7" face="Times New Roman" size=9.75 Condensed=T BIU=FFF></FONT>
+<FONT Name="Minor" face="Times New Roman" size=9.75 Condensed=T BIU=FFF></FONT>
+<FONT Name="eddates" face="Times New Roman" size=11.25 Condensed=F BIU=FFF></FONT>
+<FONT Name="School" face="Times New Roman" size=11.25 Condensed=F BIU=FFF></FONT>
+<FONT Name="EdLocation" face="Times New Roman" size=11.25 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim3" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim5" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="GPA" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim9" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="MajorGPA" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Eposition" face="Times New Roman" size=9.75 Condensed=F BIU=TFF></FONT>
+<FONT Name="edates" face="Times New Roman" size=11.25 Condensed=F BIU=FFF></FONT>
+<FONT Name="Company" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Elocation" face="Times New Roman" size=11.25 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet1" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet2" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet3" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet4" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet5" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet6" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet7" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet8" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet9" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet10" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet11" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet12" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet13" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet14" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet15" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet16" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet17" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet18" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet19" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet20" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet21" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet22" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet23" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Bullet24" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="BTopic" face="Times New Roman" size=11.25 Condensed=F BIU=FFF></FONT>
+<FONT Name="Htitle" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim4" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Hname" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Hlocation" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="hdates" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="hdrname" face="Times New Roman" size=14.25 Condensed=F BIU=TFF></FONT>
+<FONT Name="hdraddress" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="ftrname" face="Times New Roman" size=8.25 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim8" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim4" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="FirstName" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim0" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="LastName" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Address1" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Address2" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="City" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="State" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim1" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Zip" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Country" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="PhoneT1" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Phone1" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="PhoneT2" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Phone2" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="PhoneT3" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Phone3" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EMail" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="GradMonth" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="GradYear" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EMonthStart" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EYearStart" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="DateSep" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EMonthEnd" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EYearEnd" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HMonthStart" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HYearStart" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HMonthEnd" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HYearEnd" face="Times New Roman" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Topic" face="Times New Roman" size=9.75 Condensed=F BIU=TFF></FONT>
+<FONT Name="Delim9" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="EDelim3" face="Times New Roman" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="EducationHeading73DegreeType" face="Times New Roman" size=9.75 Condensed=F BIU=TFF></FONT>
+<DOCUMENT>
+<BORDERS style="border-left: None;border-top: None;border-right: None;border-bottom: None">
+<RESUMEBORDERS BorderLeft=720 BorderRight=720 BorderTop=864 BorderBottom=864>
+<MARGINS TopHeadingSpace=300 SectionHeadingSpace=0 CardSpace=150 LastCardSpace=300 LeftMargin=1440 RightMargin=1440 TopMargin=1152 BottomMargin=1152 BreakOn=2 SplitDescription=True>
+<SETTINGS HeadingFormat=0 HeaderNameFormat="0" DateFormat="YYYY," ShowCountry=False DateSeparator="to" DefaultFont="Times New Roman" SectionsColor="0" HeaderNameColor="0" HeaderAddrColor="0" HeaderLinesColor="0" ResumeLinesColor="0" BorderColor="0" BackgroundSectionsColor="16711679" GraphicPath="">
+</DOCUMENT>
+<PAGE1HEADER>
+<TABLE context="header" tablestyle=14>
+<tr>
+<td width="100%" celltype="HEADERNAME" field="FirstName,Delim0,LastName" align="CENTER"><FONT face="Times New Roman" size="3">\FirstName\Delim0\LastName</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="Address1,Delim2,Address2" align="CENTER"><FONT face="Times New Roman" size="3">\Address1\Delim2\Address2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="City,Delim2,State,Delim1,Zip,Delim2,Country" align="CENTER"><FONT face="Times New Roman" size="3">\City\Delim2\State\Delim1\Zip\Delim2\Country</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="PhoneT1,Delim3,Phone1" align="CENTER"><FONT face="Times New Roman" size="3">\PhoneT1\Delim3\Phone1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="PhoneT2,Delim3,Phone2" align="CENTER"><FONT face="Times New Roman" size="3">\PhoneT2\Delim3\Phone2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="PhoneT3,Delim3,Phone3" align="CENTER"><FONT face="Times New Roman" size="3">\PhoneT3\Delim3\Phone3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="EMail" align="CENTER"><FONT face="Times New Roman" size="3">\EMail</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" style="border-bottom: Double" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Date fieldtype=Date fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 2011,\cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=DelimPage fieldtype=Delimiter fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 Page \cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PageSep fieldtype=Delimiter fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17  of \cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PageCount fieldtype=Text fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+4
+</FIELD>
+<FIELD key=PageNum fieldtype=Text fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 1\cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=JobCategory fieldtype=JobCategory>
+Accounting, Finance and Banking
+</FIELD>
+<FIELD key=Delim9 fieldtype=Delimiter fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\qr\cf1\lang1033\f0\fs24  \bullet  \cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=EDelim3 fieldtype=Delimiter fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs24  \cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=FirstName fieldtype=FirstName fontname="hdrname" font="hdrname" colored=False fieldcolor=0>
+Samuel
+</FIELD>
+<FIELD key=Delim0 fieldtype=Delimiter fontname="hdrname" font="hdrname" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs29  \cf0\b0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=LastName fieldtype=LastName fontname="hdrname" font="hdrname" colored=False fieldcolor=0>
+Ehebha
+</FIELD>
+<FIELD key=Address1 fieldtype=Address1 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Address2 fieldtype=Address2 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=City fieldtype=City fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs24 , \cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=State fieldtype=State fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs24  \cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Zip fieldtype=Zip fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Country fieldtype=Country fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=PhoneT1 fieldtype=PhoneT1 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Phone1 fieldtype=Phone1 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=PhoneT2 fieldtype=PhoneT2 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=Phone2 fieldtype=Phone2 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=PhoneT3 fieldtype=PhoneT3 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs24  \cf0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Phone3 fieldtype=Phone3 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=EMail fieldtype=EMail fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=PhoneT4 fieldtype=PhoneT4>
+
+</FIELD>
+<FIELD key=Phone4 fieldtype=Phone4>
+
+</FIELD>
+<FIELD key=PhoneT5 fieldtype=PhoneT5>
+
+</FIELD>
+<FIELD key=Phone5 fieldtype=Phone5>
+
+</FIELD>
+</DATACARD>
+</PAGE1HEADER>
+<FOOTER>
+<FOOTERDATA context="Footer" left="" center="" right="" topseparator=False bottomseparator=False>
+</FOOTERDATA>
+</FOOTER>
+<HEADER>
+<HEADERDATA context="Header" left="" center="" right="" topseparator=False bottomseparator=False>
+</HEADERDATA>
+</HEADER>
+<BLOCK context="Objective" tablestyle=14>
+<TABLE context="ObjectiveHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Times New Roman" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 AWS/DEVOPS ENGINEER \bullet  IT SUPPORT TECHNICIAN \bullet  BUSINESS ANALYST\b0 <crlf>\par }<crlf>
+</FIELD>
+</DATACARD>
+<TABLE context="ObjectiveBody">
+<tr>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+Career Objective
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\f0\fs20 International experience and exposure to diverse technologies, cultures, and business operations underscores more than 6-years experience in the IT sector. Acknowledged for capacity to analyze issues, expedite innovative solutions, and build the type of consensus-driven environment that contributes to on time, on-budget delivery. Track record for absorbing volumes of technical information, conceiving realistic solutions, and bridging the gap between technology limitations and business/management expectations. A service- and client-focused professional, with proven team leadership strengths.
+\par 
+\par }
+
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Objective" tablestyle=14>
+<TABLE context="ObjectiveHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Times New Roman" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 PROFESSIONAL STRENGTHS INCLUDE:\cf0\b0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="ObjectiveBody">
+<tr>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\f0\fs20 \par System Analysis & Design\tab\tab End-User Training\tab\tab Project Management\par Business Administration\tab\tab\tab Operations Management\tab\tab Application Development\par Cost Reduction/Containment\tab\tab Process Improvements\tab\tab Issue Resolution\par Risk Analysis/Justifications\tab\tab Technical Specifications\tab\tab Client Relationship\par Team Leadership\tab\tab\tab\tab Critical Problem-solving\tab\tab Management\par \par }
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Objective" tablestyle=14>
+<TABLE context="ObjectiveHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Times New Roman" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 TECHNOLOGY SNAPSHOT\cf0\b0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="ObjectiveBody">
+<tr>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="CENTER"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\qc\f0\fs20 \par Microsoft Office Professional \bullet  Microsoft FrontPage \bullet  HTML \bullet  Windows NT/2000/XP/ME/98/95 \bullet  LAN/WAN \bullet  JavaScript \bullet  WML/WML Script \bullet  OO Design \bullet  Network Design \bullet  Database Design \bullet  Visual Basic 6 \bullet  VB.Net \bullet  Visual C#, C++, C \bullet  XML (DTD, Schema, XSLT, CSS) \bullet  UNIX (Linux, Solaris) \bullet  MAC OS \bullet  Geomedia/Geomedia Pro\bullet  Visual Manufacturing \bullet  BizTalk Server \bullet  Photoshop \bullet  Microsoft Project \bullet  Pascal \bullet  Eiffel \bullet  Prolog \bullet  Java \bullet  ASP.Net \bullet  ADO.Net \bullet  SQL Server \bullet  Novel Netware \bullet  Lotus SmartSuite \bullet \par \par }
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Summary" tablestyle=2014>
+<TABLE context="comboHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Times New Roman" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 PROJECT & EMPLOYMENT HIGHLIGHTS\cf0\b0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="comboBody">
+<tr>
+<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Times New Roman" size="3">\BTopic</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Topic fieldtype=Topic>
+Successfully transformed an outmoded manual inventory system into a contemporary barcode function with inbuilt expandability for future enhancements. Delivered incident free project by "impossible" deadline of just 5-weeks, training end-users to master the system in 15-days.
+</FIELD>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+Successfully transformed an outmoded manual inventory system into a contemporary barcode function with inbuilt expandability for future enhancements. Delivered incident free project by "impossible" deadline of just 5-weeks, training end-users to master the system in 15-days.
+</FIELD>
+<FIELD key=Description fieldtype=Description>
+[ Enter a description; click the Plus sign to add cards. ]
+</FIELD>
+</DATACARD>
+<TABLE context="SummaryBody">
+<tr>
+<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Times New Roman" size="3">\BTopic</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Topic fieldtype=Topic>
+Key contributor in 4-person team assigned ambitious project to replace ineffective and erroneous manufacturing tracking and payroll systems. Devised the design for the $US 2 million project that won management support and later spread to all plants in the USA, Mexico, and Central America—with implementation pending in Europe and Asia.
+</FIELD>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+Key contributor in 4-person team assigned ambitious project to replace ineffective and erroneous manufacturing tracking and payroll systems. Devised the design for the $US 2 million project that won management support and later spread to all plants in the USA, Mexico, and Central America—with implementation pending in Europe and Asia.
+</FIELD>
+<FIELD key=Description fieldtype=Description>
+[ Enter a description; click the Plus sign to add cards. ]
+</FIELD>
+</DATACARD>
+<TABLE context="SummaryBody">
+<tr>
+<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Times New Roman" size="3">\BTopic</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Topic fieldtype=Topic>
+Pioneered the use of GIS in the law enforcement sector by designing Crime Guard a GIS application that refined the methods of analysis for the police department in Apizaco, Mexico. Met the “go-live” data for implementation with a system that housed digitized city maps, incidences of crimes, and offender details.
+</FIELD>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+Pioneered the use of GIS in the law enforcement sector by designing Crime Guard a GIS application that refined the methods of analysis for the police department in Apizaco, Mexico. Met the “go-live” data for implementation with a system that housed digitized city maps, incidences of crimes, and offender details.
+</FIELD>
+<FIELD key=Description fieldtype=Description>
+[ Enter a description; click the Plus sign to add cards. ]
+</FIELD>
+</DATACARD>
+<TABLE context="SummaryBody">
+<tr>
+<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Times New Roman" size="3">\BTopic</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Topic fieldtype=Topic>
+Recognized as one of the best GPAs from the School of Computer Systems Engineering in 1993.
+</FIELD>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+Recognized as one of the best GPAs from the School of Computer Systems Engineering in 1993.
+</FIELD>
+<FIELD key=Description fieldtype=Description>
+[ Enter a description; click the Plus sign to add cards. ]
+</FIELD>
+</DATACARD>
+<TABLE context="SummaryBody">
+<tr>
+<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Times New Roman" size="3">\BTopic</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Topic fieldtype=Topic>
+Top 5 placement at the ACM International Collegiate Programming Contest, Region Mexico, 1996.
+</FIELD>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+Top 5 placement at the ACM International Collegiate Programming Contest, Region Mexico, 1996.
+</FIELD>
+<FIELD key=Description fieldtype=Description>
+[ Enter a description; click the Plus sign to add cards. ]
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Employment" tablestyle=14>
+<TABLE context="EmploymentHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Times New Roman" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 EMPLOYMENT SUMMARY\cf0\b0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+LA MODA ELEGANTE E HIJOS
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Apizaco, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2013
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2014
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Retail Manager
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+LA MODA ELEGANTE E HIJOS
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Apizaco, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2012
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2013
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Systems Designer & Developer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+WARNACO GROUP INC.
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+New York, USA
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2009
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2011
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Manufacturing Systems Developer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+APIZACO POLICE DEPARTMENT
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Apizaco, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2008
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2009
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Software Engineer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+CB1 INTERNET CAFÉ
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Cambridge, England
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2008
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Internet Service Provider Assistant
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+COMPUTER SYSTEMS ENGINEERING DEPARTMENT
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Puebla, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2007
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Webmaster
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+CHAMBER OF TEXTILE INDUSTRY OF PUEBLA
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Puebla, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2006
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2007
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Systems Programmer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Employment" tablestyle=20014>
+<TABLE context="EmploymentHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Times New Roman" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 EMPLOYMENT CHRONICLE\cf0\b0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet1" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet2" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet3" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet4" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet4</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet5" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet5</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet6" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet6</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet7" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet7</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet8" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet8</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet9" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet9</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet10" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet10</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet11" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet11</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet12" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet12</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet13" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet13</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet14" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet14</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet15" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet15</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet16" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet16</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet17" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet17</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet18" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet18</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet19" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet19</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet20" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet20</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet21" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet21</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet22" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet22</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet23" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet23</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet24" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet24</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+LA MODA ELEGANTE E HIJOS
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Apizaco, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2013
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2014
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Retail Manager
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\f0\fs20 Recruited to turn around declining sales stemming from inept marketing campaigns, waning customer service attitudes, and excessive inventory levels. Clearly techniques used successfully over generations were failing to beat the newer, tougher retail competition. Immediately embarked upon a complete analysis and revamp of business operations; observed employees' performances, established training programs to reinforce a "customer first" mindset, reinvigorated the marketing campaign message, and eliminated obsolete stock, while simultaneously revising order cycles and quantities.\par \b Key contributions/accomplishments\b0 \par }
+</FIELD>
+<FIELD key=Bullet1 fieldtype=Bullet1 fontname="Bullet1" font="Bullet1" Bullet=TRUE colored=False fieldcolor=0>
+Customers responded quickly to the newly-attentive retail sales consultants with store traffic increasing by 30% and sales volume by 12% in just 5-months.
+</FIELD>
+<FIELD key=Bullet2 fieldtype=Bullet2 fontname="Bullet2" font="Bullet2" Bullet=TRUE colored=False fieldcolor=0>
+Built a successful business case for, and lobbied a skeptical management on, the virtues of hiring qualified customer-centric employees. Policy paid handsome rewards with word-of-mouth recommendations of service quality spreading the reputation of the business.
+</FIELD>
+<FIELD key=Bullet3 fieldtype=Bullet3 fontname="Bullet3" font="Bullet3" Bullet=TRUE colored=False fieldcolor=0>
+Cut inventory levels by 20% removing obsolete stock and decreasing order quantities.
+</FIELD>
+<FIELD key=Bullet4 fieldtype=Bullet4 fontname="Bullet4" font="Bullet4" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet5 fieldtype=Bullet5 fontname="Bullet5" font="Bullet5" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet6 fieldtype=Bullet6 fontname="Bullet6" font="Bullet6" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet7 fieldtype=Bullet7 fontname="Bullet7" font="Bullet7" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet8 fieldtype=Bullet8 fontname="Bullet8" font="Bullet8" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet9 fieldtype=Bullet9 fontname="Bullet9" font="Bullet9" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet10 fieldtype=Bullet10 fontname="Bullet10" font="Bullet10" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet11 fieldtype=Bullet11 fontname="Bullet11" font="Bullet11" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet12 fieldtype=Bullet12 fontname="Bullet12" font="Bullet12" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet13 fieldtype=Bullet13 fontname="Bullet13" font="Bullet13" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet14 fieldtype=Bullet14 fontname="Bullet14" font="Bullet14" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet15 fieldtype=Bullet15 fontname="Bullet15" font="Bullet15" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet16 fieldtype=Bullet16 fontname="Bullet16" font="Bullet16" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet17 fieldtype=Bullet17 fontname="Bullet17" font="Bullet17" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet18 fieldtype=Bullet18 fontname="Bullet18" font="Bullet18" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet19 fieldtype=Bullet19 fontname="Bullet19" font="Bullet19" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet20 fieldtype=Bullet20 fontname="Bullet20" font="Bullet20" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet21 fieldtype=Bullet21 fontname="Bullet21" font="Bullet21" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet22 fieldtype=Bullet22 fontname="Bullet22" font="Bullet22" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet23 fieldtype=Bullet23 fontname="Bullet23" font="Bullet23" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet24 fieldtype=Bullet24 fontname="Bullet24" font="Bullet24" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet1" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet2" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet3" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet4" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet4</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet5" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet5</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet6" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet6</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet7" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet7</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet8" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet8</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet9" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet9</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet10" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet10</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet11" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet11</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet12" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet12</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet13" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet13</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet14" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet14</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet15" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet15</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet16" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet16</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet17" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet17</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet18" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet18</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet19" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet19</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet20" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet20</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet21" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet21</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet22" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet22</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet23" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet23</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet24" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet24</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+LA MODA ELEGANTE E HIJOS
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Apizaco, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2012
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2013
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Systems Designer & Developer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 Transformed an outdated manual inventory recording function to a contemporary barcode inventory system designed to resolve inventory control issues including excessive ordering and ineffective product storage. Written in Visual Basic.Net and integrating Access 2002 as a DBMS, the system utilized Crystal Reports 9 for report generation and Excel 2002 for "at a glance" charting. System tracked the inventory lifecycle from product receipt to distribution, set minimum and maximum levels for automated reordering or over-stock alerts, and generated reports that detailed vendor information, product location and type, and calculated sale prices.\par }
+</FIELD>
+<FIELD key=Bullet1 fieldtype=Bullet1 fontname="Bullet1" font="Bullet1" Bullet=TRUE colored=False fieldcolor=0>
+Challenged by a “go-live” deadline of just 5-weeks plus 15-days to train end users, successfully met all objectives with an incident free implementation that almost tripled the inventory processing time, and won widespread praise for its stability and ease of operation.
+</FIELD>
+<FIELD key=Bullet2 fieldtype=Bullet2 fontname="Bullet2" font="Bullet2" Bullet=TRUE colored=False fieldcolor=0>
+Introduced expandability to the system for future development including the potential for a sales and web technology module for greater functionality.
+</FIELD>
+<FIELD key=Bullet3 fieldtype=Bullet3 fontname="Bullet3" font="Bullet3" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet4 fieldtype=Bullet4 fontname="Bullet4" font="Bullet4" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet5 fieldtype=Bullet5 fontname="Bullet5" font="Bullet5" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet6 fieldtype=Bullet6 fontname="Bullet6" font="Bullet6" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet7 fieldtype=Bullet7 fontname="Bullet7" font="Bullet7" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet8 fieldtype=Bullet8 fontname="Bullet8" font="Bullet8" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet9 fieldtype=Bullet9 fontname="Bullet9" font="Bullet9" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet10 fieldtype=Bullet10 fontname="Bullet10" font="Bullet10" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet11 fieldtype=Bullet11 fontname="Bullet11" font="Bullet11" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet12 fieldtype=Bullet12 fontname="Bullet12" font="Bullet12" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet13 fieldtype=Bullet13 fontname="Bullet13" font="Bullet13" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet14 fieldtype=Bullet14 fontname="Bullet14" font="Bullet14" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet15 fieldtype=Bullet15 fontname="Bullet15" font="Bullet15" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet16 fieldtype=Bullet16 fontname="Bullet16" font="Bullet16" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet17 fieldtype=Bullet17 fontname="Bullet17" font="Bullet17" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet18 fieldtype=Bullet18 fontname="Bullet18" font="Bullet18" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet19 fieldtype=Bullet19 fontname="Bullet19" font="Bullet19" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet20 fieldtype=Bullet20 fontname="Bullet20" font="Bullet20" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet21 fieldtype=Bullet21 fontname="Bullet21" font="Bullet21" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet22 fieldtype=Bullet22 fontname="Bullet22" font="Bullet22" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet23 fieldtype=Bullet23 fontname="Bullet23" font="Bullet23" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet24 fieldtype=Bullet24 fontname="Bullet24" font="Bullet24" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet1" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet2" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet3" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet4" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet4</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet5" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet5</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet6" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet6</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet7" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet7</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet8" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet8</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet9" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet9</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet10" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet10</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet11" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet11</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet12" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet12</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet13" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet13</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet14" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet14</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet15" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet15</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet16" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet16</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet17" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet17</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet18" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet18</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet19" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet19</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet20" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet20</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet21" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet21</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet22" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet22</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet23" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet23</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet24" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet24</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+WARNACO GROUP INC.
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+New York, USA
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2009
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2011
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Manufacturing Systems Developer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 Time consuming, and error-plagued manufacturing tracking and payroll systems were costly, inefficient, and regularly exposed to data loss and revision due to substantial human intervention used in processing the information manually.\par Key contributor in 4-person team assigned to design the tracking system's general structure. Despite widespread concern over the ambitious project, built and presented a business case to management that won unanimous support and approval.\par Progressed to oversee complete development of the organization's six separate manufacturing module phases, provide end-user training, and reengineer select processes for increased efficiency. A painstaking implementation, that transitioned staff from little or no computer literacy to fully accomplished operators.\par }
+</FIELD>
+<FIELD key=Bullet1 fieldtype=Bullet1 fontname="Bullet1" font="Bullet1" Bullet=TRUE colored=False fieldcolor=0>
+Originally planned for a US-based rollout, the success of the project prompted rollout across all plants in the USA, Mexico, and Central America, and was poised for implementation across Europe and Asia.
+</FIELD>
+<FIELD key=Bullet2 fieldtype=Bullet2 fontname="Bullet2" font="Bullet2" Bullet=TRUE colored=False fieldcolor=0>
+Reduced human intervention, eliminated paper-based records, and reengineered procedures, cut business costs by 35%, increased production rates by 20%, and streamlined end-of-year reconciliations.
+</FIELD>
+<FIELD key=Bullet3 fieldtype=Bullet3 fontname="Bullet3" font="Bullet3" Bullet=TRUE colored=False fieldcolor=0>
+Spearheaded innovative method of using radio frequency devices (RF Guns) to eliminate paper documentation and expedite the warehouse’s materials handling process.
+</FIELD>
+<FIELD key=Bullet4 fieldtype=Bullet4 fontname="Bullet4" font="Bullet4" Bullet=TRUE colored=False fieldcolor=0>
+Automated procedure for integrating Bill of Materials and Orders to Manufacture data with system that removed the need for a supervising staff member to oversee the process.
+</FIELD>
+<FIELD key=Bullet5 fieldtype=Bullet5 fontname="Bullet5" font="Bullet5" Bullet=TRUE colored=False fieldcolor=0>
+Trained 300+ end-users in Spanish and English to master the nuances of the system.
+</FIELD>
+<FIELD key=Bullet6 fieldtype=Bullet6 fontname="Bullet6" font="Bullet6" Bullet=TRUE colored=False fieldcolor=0>
+Co-produced payroll system that calculated the payroll for 2000 people in each plant and virtually eliminated long-term errors. The system designed in Visual Basic 6, with Access 98 as the DBMS, was designed to cross platforms of Windows 95 and Windows 98. Exact attention to detail was critical with any errors in formula having the potential to negatively impact employees’ pay. System was implemented on time with no major incidents.
+</FIELD>
+<FIELD key=Bullet7 fieldtype=Bullet7 fontname="Bullet7" font="Bullet7" Bullet=TRUE colored=False fieldcolor=0>
+Won the “green light” from management to modify inefficient physical processes for greater productivity. Conceived and introduced a module that transitioned the manual completion/calculation and supervisor hand-over of a form, to a fully automated system where end-users keyed in data, and the system automatically completed the process with final authorization by the supervisor.
+</FIELD>
+<FIELD key=Bullet8 fieldtype=Bullet8 fontname="Bullet8" font="Bullet8" Bullet=TRUE colored=False fieldcolor=0>
+Became proficient at translating management concepts into code.
+</FIELD>
+<FIELD key=Bullet9 fieldtype=Bullet9 fontname="Bullet9" font="Bullet9" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet10 fieldtype=Bullet10 fontname="Bullet10" font="Bullet10" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet11 fieldtype=Bullet11 fontname="Bullet11" font="Bullet11" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet12 fieldtype=Bullet12 fontname="Bullet12" font="Bullet12" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet13 fieldtype=Bullet13 fontname="Bullet13" font="Bullet13" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet14 fieldtype=Bullet14 fontname="Bullet14" font="Bullet14" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet15 fieldtype=Bullet15 fontname="Bullet15" font="Bullet15" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet16 fieldtype=Bullet16 fontname="Bullet16" font="Bullet16" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet17 fieldtype=Bullet17 fontname="Bullet17" font="Bullet17" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet18 fieldtype=Bullet18 fontname="Bullet18" font="Bullet18" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet19 fieldtype=Bullet19 fontname="Bullet19" font="Bullet19" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet20 fieldtype=Bullet20 fontname="Bullet20" font="Bullet20" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet21 fieldtype=Bullet21 fontname="Bullet21" font="Bullet21" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet22 fieldtype=Bullet22 fontname="Bullet22" font="Bullet22" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet23 fieldtype=Bullet23 fontname="Bullet23" font="Bullet23" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet24 fieldtype=Bullet24 fontname="Bullet24" font="Bullet24" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet1" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet2" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet3" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet4" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet4</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet5" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet5</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet6" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet6</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet7" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet7</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet8" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet8</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet9" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet9</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet10" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet10</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet11" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet11</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet12" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet12</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet13" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet13</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet14" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet14</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet15" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet15</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet16" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet16</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet17" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet17</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet18" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet18</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet19" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet19</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet20" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet20</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet21" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet21</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet22" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet22</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet23" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet23</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet24" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet24</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+APIZACO POLICE DEPARTMENT
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Apizaco, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2008
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2009
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Software Engineer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 Designed Crime Guard, an application that refined methods for the police department to analyze crime and determine patterns or similarities in location, type, or time. The program also calculated best routes for reaching an incident swiftly, most likely placements of mobile units to minimize response times, and a database of known offenders detailing home addresses and modus operandi data.\par }
+</FIELD>
+<FIELD key=Bullet1 fieldtype=Bullet1 fontname="Bullet1" font="Bullet1" Bullet=TRUE colored=False fieldcolor=0>
+Overcame hurdles in gaining access to confidential and sensitive data by establishing a cooperative relationship with the Chief of Police. Digitized maps of the city, integrated into the GIS software; introduced Excel spreadsheet data detailing incidences of crime by location into the database, and successfully negotiated for access to selected criminal records to ensure system testing was accurate.
+</FIELD>
+<FIELD key=Bullet2 fieldtype=Bullet2 fontname="Bullet2" font="Bullet2" Bullet=TRUE colored=False fieldcolor=0>
+Mastered Geomedia Pro software despite no previous experience.
+</FIELD>
+<FIELD key=Bullet3 fieldtype=Bullet3 fontname="Bullet3" font="Bullet3" Bullet=TRUE colored=False fieldcolor=0>
+Met the deadline for go-live project implementation.
+</FIELD>
+<FIELD key=Bullet4 fieldtype=Bullet4 fontname="Bullet4" font="Bullet4" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet5 fieldtype=Bullet5 fontname="Bullet5" font="Bullet5" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet6 fieldtype=Bullet6 fontname="Bullet6" font="Bullet6" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet7 fieldtype=Bullet7 fontname="Bullet7" font="Bullet7" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet8 fieldtype=Bullet8 fontname="Bullet8" font="Bullet8" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet9 fieldtype=Bullet9 fontname="Bullet9" font="Bullet9" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet10 fieldtype=Bullet10 fontname="Bullet10" font="Bullet10" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet11 fieldtype=Bullet11 fontname="Bullet11" font="Bullet11" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet12 fieldtype=Bullet12 fontname="Bullet12" font="Bullet12" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet13 fieldtype=Bullet13 fontname="Bullet13" font="Bullet13" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet14 fieldtype=Bullet14 fontname="Bullet14" font="Bullet14" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet15 fieldtype=Bullet15 fontname="Bullet15" font="Bullet15" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet16 fieldtype=Bullet16 fontname="Bullet16" font="Bullet16" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet17 fieldtype=Bullet17 fontname="Bullet17" font="Bullet17" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet18 fieldtype=Bullet18 fontname="Bullet18" font="Bullet18" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet19 fieldtype=Bullet19 fontname="Bullet19" font="Bullet19" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet20 fieldtype=Bullet20 fontname="Bullet20" font="Bullet20" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet21 fieldtype=Bullet21 fontname="Bullet21" font="Bullet21" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet22 fieldtype=Bullet22 fontname="Bullet22" font="Bullet22" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet23 fieldtype=Bullet23 fontname="Bullet23" font="Bullet23" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet24 fieldtype=Bullet24 fontname="Bullet24" font="Bullet24" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet1" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet2" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet3" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet4" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet4</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet5" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet5</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet6" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet6</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet7" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet7</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet8" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet8</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet9" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet9</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet10" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet10</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet11" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet11</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet12" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet12</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet13" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet13</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet14" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet14</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet15" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet15</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet16" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet16</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet17" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet17</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet18" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet18</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet19" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet19</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet20" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet20</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet21" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet21</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet22" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet22</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet23" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet23</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet24" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet24</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+CB1 INTERNET CAFÉ
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Cambridge, England
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2008
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Internet Service Provider Assistant
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 Installed and administered local area network-from network cabling, through network server configurations, user account assignations, updates, and granting permissions for shared resources. Conducted load and server stress test using test scripts and automated procedures.\par }
+</FIELD>
+<FIELD key=Bullet1 fieldtype=Bullet1 fontname="Bullet1" font="Bullet1" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet2 fieldtype=Bullet2 fontname="Bullet2" font="Bullet2" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet3 fieldtype=Bullet3 fontname="Bullet3" font="Bullet3" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet4 fieldtype=Bullet4 fontname="Bullet4" font="Bullet4" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet5 fieldtype=Bullet5 fontname="Bullet5" font="Bullet5" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet6 fieldtype=Bullet6 fontname="Bullet6" font="Bullet6" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet7 fieldtype=Bullet7 fontname="Bullet7" font="Bullet7" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet8 fieldtype=Bullet8 fontname="Bullet8" font="Bullet8" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet9 fieldtype=Bullet9 fontname="Bullet9" font="Bullet9" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet10 fieldtype=Bullet10 fontname="Bullet10" font="Bullet10" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet11 fieldtype=Bullet11 fontname="Bullet11" font="Bullet11" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet12 fieldtype=Bullet12 fontname="Bullet12" font="Bullet12" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet13 fieldtype=Bullet13 fontname="Bullet13" font="Bullet13" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet14 fieldtype=Bullet14 fontname="Bullet14" font="Bullet14" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet15 fieldtype=Bullet15 fontname="Bullet15" font="Bullet15" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet16 fieldtype=Bullet16 fontname="Bullet16" font="Bullet16" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet17 fieldtype=Bullet17 fontname="Bullet17" font="Bullet17" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet18 fieldtype=Bullet18 fontname="Bullet18" font="Bullet18" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet19 fieldtype=Bullet19 fontname="Bullet19" font="Bullet19" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet20 fieldtype=Bullet20 fontname="Bullet20" font="Bullet20" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet21 fieldtype=Bullet21 fontname="Bullet21" font="Bullet21" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet22 fieldtype=Bullet22 fontname="Bullet22" font="Bullet22" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet23 fieldtype=Bullet23 fontname="Bullet23" font="Bullet23" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet24 fieldtype=Bullet24 fontname="Bullet24" font="Bullet24" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet1" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet2" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet3" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet4" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet4</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet5" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet5</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet6" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet6</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet7" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet7</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet8" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet8</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet9" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet9</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet10" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet10</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet11" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet11</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet12" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet12</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet13" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet13</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet14" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet14</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet15" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet15</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet16" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet16</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet17" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet17</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet18" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet18</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet19" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet19</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet20" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet20</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet21" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet21</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet22" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet22</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet23" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet23</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet24" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet24</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+COMPUTER SYSTEMS ENGINEERING DEPARTMENT
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Puebla, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2007
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Webmaster
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 Conceptualized, designed, and maintained the Computer Systems Engineering Department's website at the University of Las Americas Puebla. Led a small team of graphic designers, and sought feedback from end- users to maximize the ease of navigation, and introduce intuitive services.\par }
+</FIELD>
+<FIELD key=Bullet1 fieldtype=Bullet1 fontname="Bullet1" font="Bullet1" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet2 fieldtype=Bullet2 fontname="Bullet2" font="Bullet2" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet3 fieldtype=Bullet3 fontname="Bullet3" font="Bullet3" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet4 fieldtype=Bullet4 fontname="Bullet4" font="Bullet4" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet5 fieldtype=Bullet5 fontname="Bullet5" font="Bullet5" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet6 fieldtype=Bullet6 fontname="Bullet6" font="Bullet6" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet7 fieldtype=Bullet7 fontname="Bullet7" font="Bullet7" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet8 fieldtype=Bullet8 fontname="Bullet8" font="Bullet8" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet9 fieldtype=Bullet9 fontname="Bullet9" font="Bullet9" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet10 fieldtype=Bullet10 fontname="Bullet10" font="Bullet10" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet11 fieldtype=Bullet11 fontname="Bullet11" font="Bullet11" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet12 fieldtype=Bullet12 fontname="Bullet12" font="Bullet12" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet13 fieldtype=Bullet13 fontname="Bullet13" font="Bullet13" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet14 fieldtype=Bullet14 fontname="Bullet14" font="Bullet14" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet15 fieldtype=Bullet15 fontname="Bullet15" font="Bullet15" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet16 fieldtype=Bullet16 fontname="Bullet16" font="Bullet16" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet17 fieldtype=Bullet17 fontname="Bullet17" font="Bullet17" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet18 fieldtype=Bullet18 fontname="Bullet18" font="Bullet18" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet19 fieldtype=Bullet19 fontname="Bullet19" font="Bullet19" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet20 fieldtype=Bullet20 fontname="Bullet20" font="Bullet20" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet21 fieldtype=Bullet21 fontname="Bullet21" font="Bullet21" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet22 fieldtype=Bullet22 fontname="Bullet22" font="Bullet22" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet23 fieldtype=Bullet23 fontname="Bullet23" font="Bullet23" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet24 fieldtype=Bullet24 fontname="Bullet24" font="Bullet24" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="65%" celltype="TEXT" field="Company,Delim3,Elocation" align="LEFT"><FONT face="Times New Roman" size="3">\Company\Delim3\Elocation</font></td>
+<td width="35%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Times New Roman" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Eposition" align="LEFT"><FONT face="Times New Roman" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Times New Roman" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet1" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet1</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet2" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet2</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet3" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet3</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet4" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet4</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet5" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet5</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet6" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet6</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet7" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet7</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet8" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet8</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet9" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet9</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet10" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet10</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet11" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet11</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet12" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet12</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet13" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet13</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet14" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet14</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet15" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet15</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet16" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet16</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet17" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet17</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet18" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet18</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet19" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet19</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet20" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet20</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet21" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet21</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet22" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet22</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet23" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet23</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Bullet24" align="LEFT"><FONT face="Times New Roman" size="3">\Bullet24</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+CHAMBER OF TEXTILE INDUSTRY OF PUEBLA
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Puebla, Mexico
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2006
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2007
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Systems Programmer
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\lang1033\f0\fs20 Co-programmed the human resources module designed to provide the HR department with full access to employee information-from salary to attendance rates, work shifts, and department location.\par }
+</FIELD>
+<FIELD key=Bullet1 fieldtype=Bullet1 fontname="Bullet1" font="Bullet1" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet2 fieldtype=Bullet2 fontname="Bullet2" font="Bullet2" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet3 fieldtype=Bullet3 fontname="Bullet3" font="Bullet3" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet4 fieldtype=Bullet4 fontname="Bullet4" font="Bullet4" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet5 fieldtype=Bullet5 fontname="Bullet5" font="Bullet5" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet6 fieldtype=Bullet6 fontname="Bullet6" font="Bullet6" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet7 fieldtype=Bullet7 fontname="Bullet7" font="Bullet7" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet8 fieldtype=Bullet8 fontname="Bullet8" font="Bullet8" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet9 fieldtype=Bullet9 fontname="Bullet9" font="Bullet9" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet10 fieldtype=Bullet10 fontname="Bullet10" font="Bullet10" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet11 fieldtype=Bullet11 fontname="Bullet11" font="Bullet11" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet12 fieldtype=Bullet12 fontname="Bullet12" font="Bullet12" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet13 fieldtype=Bullet13 fontname="Bullet13" font="Bullet13" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet14 fieldtype=Bullet14 fontname="Bullet14" font="Bullet14" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet15 fieldtype=Bullet15 fontname="Bullet15" font="Bullet15" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet16 fieldtype=Bullet16 fontname="Bullet16" font="Bullet16" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet17 fieldtype=Bullet17 fontname="Bullet17" font="Bullet17" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet18 fieldtype=Bullet18 fontname="Bullet18" font="Bullet18" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet19 fieldtype=Bullet19 fontname="Bullet19" font="Bullet19" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet20 fieldtype=Bullet20 fontname="Bullet20" font="Bullet20" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet21 fieldtype=Bullet21 fontname="Bullet21" font="Bullet21" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet22 fieldtype=Bullet22 fontname="Bullet22" font="Bullet22" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet23 fieldtype=Bullet23 fontname="Bullet23" font="Bullet23" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Bullet24 fieldtype=Bullet24 fontname="Bullet24" font="Bullet24" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Education" tablestyle=14>
+<TABLE context="EducationHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Times New Roman" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 EDUCATION\cf0\b0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EducationBody">
+<tr>
+<td width="65%" celltype="TEXT" field="School,Delim2,EdLocation" align="CENTER"><FONT face="Times New Roman" size="3">\School\Delim2\EdLocation</font></td>
+<td width="35%" celltype="TEXT" field="GradMonth,Delim1,GradYear" align="LEFT"><FONT face="Times New Roman" size="3">\GradMonth\Delim1\GradYear</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="DegreeType,Delim2,Degree,Delim2,SDelim7,Minor" align="CENTER"><FONT face="Times New Roman" size="3">\DegreeType\Delim2\Degree\Delim2\SDelim7\Minor</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="SDelim5,GPA,Delim0,SDelim4,MajorGPA,Delim3,Description" align="CENTER"><FONT face="Times New Roman" size="3">\SDelim5\GPA\Delim0\SDelim4\MajorGPA\Delim3\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=SDelim8 fieldtype=Delimiter fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=School fieldtype=School fontname="School" font="School" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EdLocation fieldtype=EdLocation fontname="EdLocation" font="EdLocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=GradMonth fieldtype=GradMonth>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=GradYear fieldtype=GradYear fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DegreeType fieldtype=DegreeType fontname="DegreeType" font="DegreeType" colored=False fieldcolor=0>
+Master of Business Systems
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Degree fieldtype=Degree fontname="Degree" font="Degree" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim7 fieldtype=Delimiter fontname="SDelim7" font="SDelim7" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=Minor fieldtype=Minor fontname="Minor" font="Minor" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim5 fieldtype=Delimiter fontname="SDelim5" font="SDelim5" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=GPA fieldtype=GPA fontname="GPA" font="GPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim0 fieldtype=Delimiter fontname="Delim0" font="Delim0" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=SDelim4 fieldtype=Delimiter fontname="SDelim4" font="SDelim4" colored=False fieldcolor=0>
+Major GPA: 
+</FIELD>
+<FIELD key=MajorGPA fieldtype=MajorGPA fontname="MajorGPA" font="MajorGPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
+. 
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\qc\f0\fs20 Master of Business Systems Monash University, Australia (2003)\par }
+</FIELD>
+</DATACARD>
+<TABLE context="EducationBody">
+<tr>
+<td width="65%" celltype="TEXT" field="School,Delim2,EdLocation" align="CENTER"><FONT face="Times New Roman" size="3">\School\Delim2\EdLocation</font></td>
+<td width="35%" celltype="TEXT" field="GradMonth,Delim1,GradYear" align="LEFT"><FONT face="Times New Roman" size="3">\GradMonth\Delim1\GradYear</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="DegreeType,Delim2,Degree,Delim2,SDelim7,Minor" align="CENTER"><FONT face="Times New Roman" size="3">\DegreeType\Delim2\Degree\Delim2\SDelim7\Minor</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="SDelim5,GPA,Delim0,SDelim4,MajorGPA,Delim3,Description" align="CENTER"><FONT face="Times New Roman" size="3">\SDelim5\GPA\Delim0\SDelim4\MajorGPA\Delim3\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=SDelim8 fieldtype=Delimiter fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=School fieldtype=School fontname="School" font="School" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EdLocation fieldtype=EdLocation fontname="EdLocation" font="EdLocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=GradMonth fieldtype=GradMonth fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=GradYear fieldtype=GradYear fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DegreeType fieldtype=DegreeType fontname="DegreeType" font="DegreeType" colored=False fieldcolor=0>
+Certificate in Finance Administration
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Degree fieldtype=Degree fontname="Degree" font="Degree" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim7 fieldtype=Delimiter fontname="SDelim7" font="SDelim7" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=Minor fieldtype=Minor fontname="Minor" font="Minor" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim5 fieldtype=Delimiter fontname="SDelim5" font="SDelim5" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=GPA fieldtype=GPA fontname="GPA" font="GPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim0 fieldtype=Delimiter fontname="Delim0" font="Delim0" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=SDelim4 fieldtype=Delimiter fontname="SDelim4" font="SDelim4" colored=False fieldcolor=0>
+Major GPA: 
+</FIELD>
+<FIELD key=MajorGPA fieldtype=MajorGPA fontname="MajorGPA" font="MajorGPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
+. 
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\qc\f0\fs20 University of Las Americas Puebla, Mexico (2002)\par }
+</FIELD>
+</DATACARD>
+<TABLE context="EducationBody">
+<tr>
+<td width="65%" celltype="TEXT" field="School,Delim2,EdLocation" align="LEFT"><FONT face="Times New Roman" size="3">\School\Delim2\EdLocation</font></td>
+<td width="35%" celltype="TEXT" field="GradMonth,Delim1,GradYear" align="LEFT"><FONT face="Times New Roman" size="3">\GradMonth\Delim1\GradYear</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="DegreeType,Delim2,Degree,Delim2,SDelim7,Minor" align="CENTER"><FONT face="Times New Roman" size="3">\DegreeType\Delim2\Degree\Delim2\SDelim7\Minor</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="SDelim5,GPA,Delim0,SDelim4,MajorGPA,Delim3,Description" align="CENTER"><FONT face="Times New Roman" size="3">\SDelim5\GPA\Delim0\SDelim4\MajorGPA\Delim3\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Times New Roman" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=SDelim8 fieldtype=Delimiter fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=School fieldtype=School fontname="School" font="School" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EdLocation fieldtype=EdLocation fontname="EdLocation" font="EdLocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=GradMonth fieldtype=GradMonth fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=GradYear fieldtype=GradYear fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DegreeType fieldtype=DegreeType fontname="DegreeType" font="DegreeType" colored=False fieldcolor=0>
+Bachelor of Science
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Degree fieldtype=Degree fontname="Degree" font="Degree" colored=False fieldcolor=0>
+(Computer Systems Engineering)
+</FIELD>
+<FIELD key=SDelim7 fieldtype=Delimiter fontname="SDelim7" font="SDelim7" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=Minor fieldtype=Minor fontname="Minor" font="Minor" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim5 fieldtype=Delimiter fontname="SDelim5" font="SDelim5" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=GPA fieldtype=GPA fontname="GPA" font="GPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim0 fieldtype=Delimiter fontname="Delim0" font="Delim0" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=SDelim4 fieldtype=Delimiter fontname="SDelim4" font="SDelim4" colored=False fieldcolor=0>
+Major GPA: 
+</FIELD>
+<FIELD key=MajorGPA fieldtype=MajorGPA fontname="MajorGPA" font="MajorGPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
+. 
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}\viewkind4\uc1\pard\qc\f0\fs20 University of Las Americas Puebla, Mexico (1999) International Exchange Student Cambridge University, England (1998)\par \par Extensive training includes Japanese for Beginners, Mastering Professional Selling Skills, and Customer Service. Attended the ACS National Conference-Australian Computer Society\par }
+</FIELD>
+</DATACARD>
+</BLOCK>
