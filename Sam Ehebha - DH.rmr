@@ -1,0 +1,961 @@
+<COMMENT>
+The resume you have opened was created with ResumeMaker. 
+Please ask the sender to convert the resume into a Word document,
+Adobe Acrobat PDF, or Plain Text file so that it is viewable without the
+ResumeMaker software.
+</COMMENT>
+<spellcheck>
+
+</spellcheck>
+<DOCUMENTTYPE doctype=Resume version=R20>
+<FONT Name="hdrname" face="Segoe UI" size=18 Condensed=F BIU=TFF></FONT>
+<FONT Name="hdraddress" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="ftrname" face="Segoe UI" size=8.25 Condensed=F BIU=FTF></FONT>
+<FONT Name="Heading" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="Topic" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="Delim5" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="Description" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Atitle" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim4" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Aname" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim2" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Alocation" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="hdates" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim3" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="School" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="EdLocation" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="DegreeType" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="Degree" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="SDelim7" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="Minor" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="eddates" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim8" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="GPA" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim4" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="MajorGPA" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Company" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Elocation" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Eposition" face="Segoe UI" size=9.75 Condensed=F BIU=TFF></FONT>
+<FONT Name="edates" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Htitle" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Hname" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Hlocation" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Ltitle" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Lname" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Llocation" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim1" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="PubTitle" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EDelim1" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim1" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Publication" face="Segoe UI" size=12 Condensed=F BIU=FTF></FONT>
+<FONT Name="EDelim3" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Publisher" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EDelimComma" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="DelimSpace" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="pubdates" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="DelimComma" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Pages" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Production" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Role" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Producer" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Ttitle" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Tname" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Tlocation" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="VWLocation" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="VWPosition" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="BTopic" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="FirstName" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim0" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="LastName" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Address1" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Address2" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="City" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="State" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Zip" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Country" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="PhoneT1" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Phone1" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="PhoneT2" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Phone2" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="PhoneT3" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Phone3" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EMail" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HMonthStart" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HYearStart" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="DateSep" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HMonthEnd" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="HYearEnd" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="GradMonth" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="GradYear" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="EMonthStart" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EYearStart" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EMonthEnd" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="EYearEnd" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="MStart" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="YStart" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim9" face="Segoe UI" size=9 Condensed=F BIU=FTF></FONT>
+<FONT Name="Delim6" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim5" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<DOCUMENT>
+<RESUMEBORDERS BorderLeft=720 BorderRight=720 BorderTop=864 BorderBottom=864>
+<MARGINS TopHeadingSpace=300 SectionHeadingSpace=150 CardSpace=150 LastCardSpace=300 LeftMargin=1440 RightMargin=1440 TopMargin=1152 BottomMargin=1152 BreakOn=2 SplitDescription=True>
+<SETTINGS HeadingFormat=2 HeaderNameFormat="2" DateFormat="M/YYYY," ShowCountry=False DateSeparator="to" DefaultFont="Segoe UI" SectionsColor="16777215" HeaderNameColor="13209" HeaderAddrColor="0" HeaderLinesColor="0" ResumeLinesColor="0" BorderColor="0" BackgroundSectionsColor="13209" GraphicPath="C:\Program Files (x86)\ResumeMaker Professional\Data\Library\Silhouette2.jpg">
+</DOCUMENT>
+<PAGE1HEADER>
+<TABLE context="header" tablestyle=35>
+<tr>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="60%" celltype="HEADERNAME" field="FirstName,Delim0,LastName" align="CENTER"><FONT face="Segoe UI" size="3">\FirstName\Delim0\LastName</font></td>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SPACE" field="" colspan="3" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="60%" celltype="HEADER" field="Address1,Delim2,Address2,Delim1,City,Delim2,State,Delim0,Zip,Delim2,Country" align="CENTER"><FONT face="Segoe UI" size="3">\Address1\Delim2\Address2\Delim1\City\Delim2\State\Delim0\Zip\Delim2\Country</font></td>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="60%" celltype="HEADER" field="PhoneT1,EDelim3,Phone1,Delim1,PhoneT2,EDelim3,Phone2,Delim1,PhoneT3,EDelim3,Phone3,Delim1,Email" align="CENTER"><FONT face="Segoe UI" size="3">\PhoneT1\EDelim3\Phone1\Delim1\PhoneT2\EDelim3\Phone2\Delim1\PhoneT3\EDelim3\Phone3\Delim1\Email</font></td>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="60%" celltype="HEADER" field="PhoneT4,EDelim3,Phone4,Delim1,PhoneT5,EDelim3,Phone5" align="CENTER"><FONT face="Segoe UI" size="3">\PhoneT4\EDelim3\Phone4\Delim1\PhoneT5\EDelim3\Phone5</font></td>
+<td width="20%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="" colspan="3" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="" colspan="3" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="" colspan="3" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="" colspan="3" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADER" field="" colspan="3" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SPACE" field="" colspan="2" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Date fieldtype=Date fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DelimPage fieldtype=Delimiter fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs17 Page \cf0\i0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PageSep fieldtype=Delimiter fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs17  of \cf0\i0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PageCount fieldtype=Text fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+3
+</FIELD>
+<FIELD key=PageNum fieldtype=Text fontname="ftrname" font="ftrname" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs17 1\cf0\i0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=EDelim3 fieldtype=Delimiter fontname="" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20  \cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Delim9 fieldtype=Delimiter>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20  \bullet  \cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=FirstName fieldtype=FirstName fontname="hdrname" font="hdrname" colored=True fieldcolor=13209>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green51\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs36 Samuel\cf0\b0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Delim0 fieldtype=Delimiter fontname="" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20  \cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=LastName fieldtype=LastName fontname="hdrname" font="hdrname" colored=True fieldcolor=13209>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green51\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs36 Ehebha\cf0\b0\fs20 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Address1 fieldtype=Address1 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 1837 Regina Street\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Address2 fieldtype=Address2 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=City fieldtype=City fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 Harrisburg\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 , \cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=State fieldtype=State fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 PA\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 , \cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Zip fieldtype=Zip fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 17103\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Country fieldtype=Country fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 United States\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PhoneT1 fieldtype=PhoneT1 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 Cell:\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Phone1 fieldtype=Phone1 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 717-210-7540\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PhoneT2 fieldtype=PhoneT2 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 LinkedIn:\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Phone2 fieldtype=Phone2 fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 https://www.linkedin.com/in/samehebha/\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PhoneT3 fieldtype=PhoneT3 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20  \cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=Phone3 fieldtype=Phone3 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=EMail fieldtype=EMail fontname="hdraddress" font="hdraddress" colored=False fieldcolor=0>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs20 social410@gmail.com\cf0 <crlf>\par }<crlf>
+</FIELD>
+<FIELD key=PhoneT4 fieldtype=PhoneT4 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=Phone4 fieldtype=Phone4 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=PhoneT5 fieldtype=PhoneT5 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+<FIELD key=Phone5 fieldtype=Phone5 fontname="hdraddress" font="hdraddress" colored=True fieldcolor=0>
+
+</FIELD>
+</DATACARD>
+</PAGE1HEADER>
+<FOOTER>
+<FOOTERDATA context="Footer" left="" center="" right="" topseparator=False bottomseparator=False>
+</FOOTERDATA>
+</FOOTER>
+<HEADER>
+<HEADERDATA context="Header" left="" center="" right="" topseparator=False bottomseparator=False>
+</HEADERDATA>
+</HEADER>
+<BLOCK context="Summary" tablestyle=1035>
+<TABLE context="comboHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="LEFT"><FONT face="Segoe UI" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=16777215>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red255\green255\blue255;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Summary\cf0\b0\fs20 <crlf>\par }<crlf>
+</FIELD>
+</DATACARD>
+<TABLE context="comboBody">
+<tr>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim5 fieldtype=Delim5 fontname="Delim5" font="Delim5" colored=False fieldcolor=0>
+:
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Dedicated and personable computer support professional skilled at troubleshooting and resolving system, hardware and software issues, including network connectivity, while minimizing customer stress levels and ensuring customer satisfaction. More than 10 years of experience in providing technical assistance, server, desktop, helpdesk support and System/Network to end users.
+\par }
+
+</FIELD>
+<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
+[ An accomplishment, skill, ability, or other information ]
+</FIELD>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
+[ An accomplishment, skill, ability, or other information ]
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Summary" tablestyle=1035>
+<TABLE context="SummaryHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="LEFT"><FONT face="Segoe UI" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=16777215>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red255\green255\blue255;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Summary\cf0\b0\fs20 <crlf>\par }<crlf>
+</FIELD>
+</DATACARD>
+<TABLE context="SummaryBody">
+<tr>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim5 fieldtype=Delim5 fontname="Delim5" font="Delim5" colored=False fieldcolor=0>
+:
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 TECHNICAL SKILLS
+\par \bullet  Excellent aptitude to listen customers, Anticipating by being Proactive
+\par \bullet  diagnose the problem and direct customers Capacity to deal calmly and effectively with
+\par \bullet  through the recommended problem-solving stress situations.
+\par \bullet  steps. Ability to lead, take charge, and offer opinions
+\par \bullet  Analytical Thinking: analyzing information and and direction.
+\par \bullet  using logic to resolve work-related issues and Works well with others
+\par \bullet  problems. Excellent Ability to train and share knowledge
+\par \bullet  Strong Customer Relationship Management
+\par \bullet  Platform:\'b7 Administration of Windows 2003, 2008, 2012 Server, Active directory, (DNS, DHCP and Group Policy),
+\par \bullet  Desktop security, remote desktop, troubleshooting Desktop.\'b7 Linux admin (Linux commands, Shell Scripting, Powershell)\'b7 DevOps Admin tools (GIT, Ansible, Jenkins, Maven, NodeJS, Docker, Kubernetes, etc)\'b7 Amazon Web Services (AWS)
+\par \bullet  System Server:\'b7 Hardware, SAN Storage Systems, Server backup, enterprise tape storage / Data Protector, (IBM Tivoli
+\par \bullet  Storage Manager, HP Data Protector/ deduplication, EMC NetWorker, SYMANTEC Netback up)
+\par \bullet  Database:\'b7 SQL server developer / administration\'b7 Junior oracle DBA
+\par \bullet  Desktop support:\'b7 Support Windows client XP/ Vista / 7 / 8 /10\'b7 Support VMware horizon /thin client /zero client\'b7 Patch Management, Configuration, Deployment, setting test lab\'b7 Imaging PCs /servers (SCCM) /Ghost
+\par \bullet  Helpdesk application (ticketing/network/imaging):\'b7 ITSM1/2 ServiceNow, BMCTrack, Service-Now, Readydesk, Lansweeper, Spiceworks, Network inventory\'b7 Advisor, SCCM, Symantec Ghost and Acronis....\'b7 Support of O365/Office 2013/ lotus Note, Skype for business, WebEx, printer, thin clients, RSA
+\par \bullet  SecureID, tablet, cisco phone, REMI process
+\par \bullet  Hardware/ desktop support:\'b7 System boards, motherboards, processors, memory chips, Power supplies, video and sound cards, hard
+\par \bullet  drives, External drives, DVD drives, backup drives (zip drives, tape drives), Scanners, modems, cameras,
+\par \bullet  and a variety of printers.
+\par \bullet  Network:\'b7 Configuration of cisco switches/router, Analyze, test, troubleshoot, and evaluate existing network
+\par \bullet  systems, such as local area network (LAN), wide area network (WAN), TCP/IP and Internet systems or a
+\par \bullet  segment of a network system, Dhcp, dns, gateway, Tcp/ip, virtual desktop, WIFI. Perform network
+\par \bullet  maintenance to ensure networks operate correctly with minimal interruption.\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Topic fieldtype=Topic>
+[ An accomplishment, skill, ability, or other information ]
+</FIELD>
+<FIELD key=BTopic fieldtype=BTopic>
+[ An accomplishment, skill, ability, or other information ]
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Employment" tablestyle=35>
+<TABLE context="EmploymentHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="LEFT"><FONT face="Segoe UI" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=16777215>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red255\green255\blue255;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Experience\cf0\b0\fs20 <crlf>\par }<crlf>
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="60%" celltype="TEXT" field="Company,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Elocation</font></td>
+<td width="40%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="POSITION" field="Eposition" align="LEFT"><FONT face="Segoe UI" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+D&H
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+-1
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+Present
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+HR Admin Assistant
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Administrative support to the Human Resources Manager.
+\par \bullet  Administrative support to the Operations Manager with invoices and reports.
+\par \bullet  Assist with recruitment including prescreening resumes and applications,
+\par \bullet  scheduling interviews, initiating background checks and new hire paperwork.
+\par \bullet  Assist with order pick-ups for local customers.
+\par \bullet  Assist with special projects and presentations.
+\par \bullet  Provide internal customer service by answering benefit, pay and policy inquiries.
+\par \bullet  Assist with event planning and organization\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+/
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="60%" celltype="TEXT" field="Company,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Elocation</font></td>
+<td width="40%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="POSITION" field="Eposition" align="LEFT"><FONT face="Segoe UI" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+BOXZOOKA FULFILLMENT & GLOBAL ECOMMERCE
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Middletown /PA
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+-1
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+Present
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Answer phone,
+\par \bullet  Warehouse Associatefiling, faxing and scanning\'b7 Complete fulfillment orders including receiving new merchandise, picking, packing and shipping orders.\'b7 Process incoming return orders and prepare for stock put away.\'b7 Provided computer, IT support to the other associates and team members.\'b7 Ensure all procedures, policies, and standards are followed.\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+/
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="60%" celltype="TEXT" field="Company,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Elocation</font></td>
+<td width="40%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="POSITION" field="Eposition" align="LEFT"><FONT face="Segoe UI" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+NORDSTROM
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+October
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2019
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+January
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2019
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Seasonal Warehouse Associate
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Provided support to the business by ensuring inventory and orders are accurately audited, processed,
+\par \bullet  assembled, efficiently packed and shipped\'b7 Comply with job rotation and work where designated with the department (Stock Control, Packing,
+\par \bullet  Shipping, PANDA) and building\'b7 Completed receiving and/or shipping documentation, as required \'b7\'b7 Utilize best practices following standard operating procedures and reference aids\'b7 Researched and resolved issues using appropriate resources\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter>
+/
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="60%" celltype="TEXT" field="Company,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Elocation</font></td>
+<td width="40%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="POSITION" field="Eposition" align="LEFT"><FONT face="Segoe UI" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+NEWCO INVESTMENT LIMITED /LAGOS NIGERIA
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+February
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2012
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+May
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2017
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+Executive Assistant
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Managed the reconstruction and expansion project of the company's farm which include overseeing
+\par \bullet  and undertaking the deployment and management of the information technology system..\'b7 Provided technical assistance and support related to Server systems, hardware, software\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter>
+/
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="60%" celltype="TEXT" field="Company,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Elocation</font></td>
+<td width="40%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="POSITION" field="Eposition" align="LEFT"><FONT face="Segoe UI" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+MICHAEL STEVENS CONSULTING /NIGERIA
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+August
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2008
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+December
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2011
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+HR Consultant
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'b7 Defacto IT Expertise on the consulting activies especially during recruitment process of IT candidates\'b7 Consulted with major corporate clients nationwide to provide leadership expertise in the areas of
+\par \bullet  Information Technologies, organizational development, training and development, project
+\par \bullet  management, skill and competency assessment, and development of administrative documentation for
+\par \bullet  policies and procedures.\'b7 Worked with other team members in developing process manual and employee handbook for different
+\par \bullet  clients across diverse industries.\'b7 Invented a new resume review system and job candidate shortlisting process using Microsoft Excel and
+\par \bullet  Outlook\'b7 Provided Desktop/Technical upport to the consulting operations.\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter>
+/
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="60%" celltype="TEXT" field="Company,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Elocation</font></td>
+<td width="40%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="POSITION" field="Eposition" align="LEFT"><FONT face="Segoe UI" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+UPTOWN TECHNOLOGIES /NIGERIA
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+February
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2005
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+June
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2008
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+IT Specialist
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Provide first level contact and convey resolutions to customer issues / Track, route and redirect\'b7 problems to correct resources / Update customer data and produce activity reports\'b7 Administering Windows server environments including LAN, WAN architecture configuring and
+\par \bullet  maintaining an Active Directory Forest, DNS, DHCP, Print Server\'b7 Administration of MS SQL Server\'b7 Patching network\'b7 Take care of customer service by trouble-shooting of software-hardware-telecom problems.\'b7\'b7 Define, design, document and implement applications solutions. Propose and implement system
+\par \bullet  enhancements (software and hardware updates) that will improve the performance and reliability of\'b7 customer's system.\'b7\'b7 Maintain network (WIFI, LAN, WAN) and computer database for customer.\'b7 In charge of all customer equipment, i.e. desktops, laptops, printers, and monitors. Evaluate customer's
+\par \bullet  business needs, objectives, and goals, research products available and designate procedures and
+\par \bullet  systems to best meet those needs.\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter>
+/
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="60%" celltype="TEXT" field="Company,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Elocation</font></td>
+<td width="40%" celltype="DATERANGE" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="POSITION" field="Eposition" align="LEFT"><FONT face="Segoe UI" size="3">\Eposition</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+VISUALTECH LTD
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+NIGERIA
+</FIELD>
+<FIELD key=EMonthStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+June
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2000
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="edates" font="edates" colored=False fieldcolor=0>
+ to 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+January
+</FIELD>
+<FIELD key=EYearEnd fieldtype=Date fontname="edates" font="edates" colored=False fieldcolor=0>
+2005
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Instructor Information Technology:\'b7 Technical "hands-on" training: Teaching Computer hardware and Operating Systems, MS office,\'b7 Windows administration.\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter>
+/
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Education" tablestyle=35>
+<TABLE context="EducationHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="LEFT"><FONT face="Segoe UI" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=16777215>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red255\green255\blue255;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Education &amp; Training\cf0\b0\fs20 <crlf>\par }<crlf>
+</FIELD>
+</DATACARD>
+<TABLE context="EducationBody">
+<tr>
+<td width="68%" celltype="TEXT" field="DegreeType,Delim2,Degree,Delim2,SDelim0,Minor" align="LEFT"><FONT face="Segoe UI" size="3">\DegreeType\Delim2\Degree\Delim2\SDelim0\Minor</font></td>
+<td width="2%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="30%" celltype="TEXT" field="GradMonth,Delim1,GradYear" align="RIGHT"><FONT face="Segoe UI" size="3">\GradMonth\Delim1\GradYear</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="School,Delim2,EdLocation,Delim2,SDelim5,GPA,Delim2,SDelim4,MajorGPA,Delim6,Description" align="LEFT"><FONT face="Segoe UI" size="3">\School\Delim2\EdLocation\Delim2\SDelim5\GPA\Delim2\SDelim4\MajorGPA\Delim6\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=SDelim7 fieldtype=Delimiter fontname="SDelim7" font="Minor" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=SDelim8 fieldtype=Delimiter fontname="SDelim8" font="GPA" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="Delim3" font="MajorGPA" colored=False fieldcolor=0>
+. 
+</FIELD>
+<FIELD key=DegreeType fieldtype=DegreeType fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Degree fieldtype=Degree fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim0 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=Minor fieldtype=Minor fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=GradMonth fieldtype=GradMonth fontname="GradMonth" font="GradMonth" colored=False fieldcolor=0>
+January
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="Delim1" font="Delim1" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=GradYear fieldtype=GradYear fontname="GradYear" font="GradYear" colored=False fieldcolor=0>
+1997
+</FIELD>
+<FIELD key=School fieldtype=School fontname="School" font="School" colored=False fieldcolor=0>
+University of Agriculture
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=EdLocation fieldtype=EdLocation fontname="EdLocation" font="EdLocation" colored=False fieldcolor=0>
+Abeokuta, Ogun State
+</FIELD>
+<FIELD key=SDelim5 fieldtype=Delimiter fontname="SDelim5" font="SDelim5" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=GPA fieldtype=GPA fontname="GPA" font="GPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim4 fieldtype=Delimiter fontname="SDelim4" font="SDelim4" colored=False fieldcolor=0>
+Major GPA: 
+</FIELD>
+<FIELD key=MajorGPA fieldtype=MajorGPA fontname="MajorGPA" font="MajorGPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim6 fieldtype=Delimiter>
+ - 
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 Certificate in Information and Communication Technology with skill in CISCO technology, VSAT
+\par \bullet  deployment, Computer networking\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter>
+/
+</FIELD>
+</DATACARD>
+<TABLE context="EducationBody">
+<tr>
+<td width="68%" celltype="TEXT" field="DegreeType,Delim2,Degree,Delim2,SDelim0,Minor" align="LEFT"><FONT face="Segoe UI" size="3">\DegreeType\Delim2\Degree\Delim2\SDelim0\Minor</font></td>
+<td width="2%" celltype="EMPTY" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="30%" celltype="TEXT" field="GradMonth,Delim1,GradYear" align="RIGHT"><FONT face="Segoe UI" size="3">\GradMonth\Delim1\GradYear</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="School,Delim2,EdLocation,Delim2,SDelim5,GPA,Delim2,SDelim4,MajorGPA,Delim6,Description" align="LEFT"><FONT face="Segoe UI" size="3">\School\Delim2\EdLocation\Delim2\SDelim5\GPA\Delim2\SDelim4\MajorGPA\Delim6\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=SDelim7 fieldtype=Delimiter fontname="SDelim7" font="Minor" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=SDelim8 fieldtype=Delimiter fontname="SDelim8" font="GPA" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="Delim3" font="MajorGPA" colored=False fieldcolor=0>
+. 
+</FIELD>
+<FIELD key=DegreeType fieldtype=DegreeType fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Degree fieldtype=Degree fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim0 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=Minor fieldtype=Minor fontname="eddates" font="eddates" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=GradMonth fieldtype=GradMonth fontname="GradMonth" font="GradMonth" colored=False fieldcolor=0>
+January
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="Delim1" font="Delim1" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=GradYear fieldtype=GradYear fontname="GradYear" font="GradYear" colored=False fieldcolor=0>
+1989
+</FIELD>
+<FIELD key=School fieldtype=School fontname="School" font="School" colored=False fieldcolor=0>
+Abesan High School
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=EdLocation fieldtype=EdLocation fontname="EdLocation" font="EdLocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim5 fieldtype=Delimiter fontname="SDelim5" font="SDelim5" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=GPA fieldtype=GPA fontname="GPA" font="GPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim4 fieldtype=Delimiter fontname="SDelim4" font="SDelim4" colored=False fieldcolor=0>
+Major GPA: 
+</FIELD>
+<FIELD key=MajorGPA fieldtype=MajorGPA fontname="MajorGPA" font="MajorGPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim6 fieldtype=Delimiter>
+ - 
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 IMT Computer (www.imtcomputer.net)\cf0\fs20 
+\par }
+
+</FIELD>
+<FIELD key=Delim1Slash fieldtype=Delimiter>
+/
+</FIELD>
+</DATACARD>
+</BLOCK>

@@ -8,14 +8,14 @@ ResumeMaker software.
 
 </spellcheck>
 <DOCUMENTTYPE doctype=Resume version=R20>
-<FONT Name="Heading" face="Segoe UI" size=12 Condensed=F BIU=TFF></FONT>
+<FONT Name="Heading" face="Segoe UI Semibold" size=12 Condensed=F BIU=TFF></FONT>
 <FONT Name="Description" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
 <FONT Name="DegreeType" face="Segoe UI" size=9.75 Condensed=T BIU=TFF></FONT>
 <FONT Name="Delim2" face="Segoe UI" size=9.75 Condensed=T BIU=FFF></FONT>
 <FONT Name="Degree" face="Segoe UI" size=9.75 Condensed=T BIU=TFF></FONT>
 <FONT Name="SDelim7" face="Segoe UI" size=9.75 Condensed=T BIU=FFF></FONT>
 <FONT Name="Minor" face="Segoe UI" size=9.75 Condensed=T BIU=FFF></FONT>
-<FONT Name="eddates" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="eddates" face="Segoe UI" size=9.75 Condensed=F BIU=TFF></FONT>
 <FONT Name="School" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
 <FONT Name="EdLocation" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
 <FONT Name="Delim3" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
@@ -100,6 +100,11 @@ ResumeMaker software.
 <FONT Name="PhoneT5" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
 <FONT Name="Phone5" face="Segoe UI" size=12 Condensed=F BIU=FFF></FONT>
 <FONT Name="Delim6" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Ltitle" face="Segoe UI" size=9.75 Condensed=F BIU=FTF></FONT>
+<FONT Name="Lname" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Llocation" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="Delim5" face="Segoe UI" size=9.75 Condensed=F BIU=FFF></FONT>
+<FONT Name="SDelim0" face="Arial" size=9.75 Condensed=F BIU=FFF></FONT>
 <DOCUMENT>
 <BORDERS style="border-left: Double;border-top: Double;border-right: Double;border-bottom: Double">
 <RESUMEBORDERS BorderLeft=720 BorderRight=720 BorderTop=864 BorderBottom=864>
@@ -141,7 +146,7 @@ ResumeMaker software.
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17  of \cf0\fs20 <crlf>\par }<crlf>
 </FIELD>
 <FIELD key=PageCount fieldtype=Text fontname="ftrname" font="ftrname" colored=True fieldcolor=10066329>
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 3\cf0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 4\cf0\fs20 <crlf>\par }<crlf>
 </FIELD>
 <FIELD key=PageNum fieldtype=Text fontname="ftrname" font="ftrname" colored=True fieldcolor=10066329>
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 1\cf0\fs20 <crlf>\par }<crlf>
@@ -245,7 +250,7 @@ Accounting, Finance and Banking
 </TABLE>
 <DATACARD>
 <FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\qc\cf1\b\f0\fs24 AWS/DEVOPS ENGINEER \bullet  IT SUPPORT TECHNICIAN \bullet  BUSINESS ANALYST\cf0\b0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\qc\cf1\b\f0\fs24 AWS/DEVOPS ENGINEER \bullet  IT SUPPORT TECHNICIAN \bullet  BUSINESS ANALYST\cf0\b0\f1\fs20 <crlf>\par }<crlf>
 </FIELD>
 </DATACARD>
 <TABLE context="ObjectiveBody">
@@ -257,14 +262,13 @@ Accounting, Finance and Banking
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Heading fieldtype=Heading>
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Calibri;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Career Objective\cf0\b0\fs20 <crlf>\par }<crlf>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Calibri;}}<crlf>{\colortbl ;\red0\green0\blue0;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Career Objective\cf0\b0\f1\fs20 <crlf>\par }<crlf>
 </FIELD>
 <FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
 {\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
 {\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\cf1\f0\fs20 International experience and exposure to diverse technologies, cultures, and business operations underscores more than 6-years experience in the IT sector. Acknowledged for capacity to analyze issues, expedite innovative solutions, and build the type of consensus-driven environment that contributes to on time, on-budget delivery. Track record for absorbing volumes of technical information, conceiving realistic solutions, and bridging the gap between technology limitations and business/management expectations. A service- and client-focused professional, with proven team leadership strengths.
-\par \cf0\fs20 
+\viewkind4\uc1\pard\cf1\f0\fs20 I am an ardent, highly-motivated, detail-oriented professional with over 10 years' experience in IT comprising of automating, configuring, deploying on cloud environment and data centers. Specialized in areas of IT Support, DevOps, CI/CD pipeline, Build and Release management, AWS and Linux/Windows and Application Testing. A Client-Centric, collaborative team player with demonstrated initiative and excellent communication, troubleshooting, organizational, problem-solving skills coupled with technical documentation abilities.   
 \par }
 
 </FIELD>
@@ -281,7 +285,7 @@ Accounting, Finance and Banking
 </TABLE>
 <DATACARD>
 <FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 PROFESSIONAL STRENGTHS INCLUDE:\cf0\b0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 PROFESSIONAL STRENGTHS INCLUDE:\cf0\b0\f1\fs20 <crlf>\par }<crlf>
 </FIELD>
 </DATACARD>
 <TABLE context="ObjectiveBody">
@@ -293,69 +297,133 @@ Accounting, Finance and Banking
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
-{\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\cf1\f0\fs20 
-\par System Analysis & Design\tab End-User Training\tab\tab Project Management
-\par Business Administration\tab\tab Operations Management\tab Application Development
-\par Cost Reduction/Containment\tab Process Improvements\tab\tab Issue Resolution
-\par Risk Analysis/Justifications\tab Technical Specifications\tab\tab Client Relationship
-\par Team Leadership\tab\tab Critical Problem-solving\tab\tab Management
-\par  
-\par }
-
-</FIELD>
-</DATACARD>
-</BLOCK>
-<BLOCK context="Objective" tablestyle=54>
-<TABLE context="ObjectiveHeading">
-<tr>
-<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Segoe UI" size="3">\Heading</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 TECHNOLOGY SNAPSHOT\cf0\b0\fs20 <crlf>\par }<crlf>
-</FIELD>
-</DATACARD>
-<TABLE context="ObjectiveBody">
-<tr>
-<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
 {\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}
 {\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\cf1\f0\fs20 Operating Systems  : RedHat, Ubuntu, CentOS, Amazon Linux, Windows
-\par {\pntext\f1\'B7\tab}Cloud Technologies : Amazon Web Services, Digital Ocean, Linode,  Azure
-\par {\pntext\f1\'B7\tab}Configuration Management Tools : Ansible, terraform
-\par {\pntext\f1\'B7\tab}Centralized Logging Tool: ELK ( Elastic Search, LogStash, ) 
-\par {\pntext\f1\'B7\tab}Load Balancing: AWS ELB
-\par {\pntext\f1\'B7\tab}Web servers : Apache tomcat, HTTP, Nginx
-\par {\pntext\f1\'B7\tab}Containerization Tools : Docker, Kubernetes
-\par {\pntext\f1\'B7\tab}Build Tools: Jenkins, Maven, Jfrog Artifactory
-\par {\pntext\f1\'B7\tab}Databases: RDS, MySQL 
-\par {\pntext\f1\'B7\tab}Version control system : GIT, GITHUB, Gitlab, Code Commit
-\par {\pntext\f1\'B7\tab}Scripting : python, Shell scripting
-\par {\pntext\f1\'B7\tab}Tracking Software: Jira
-\par {\pntext\f1\'B7\tab}Monitoring Tool : Nagios, AWS Cloud Watch, Prometheus & Grafana
-\par {\pntext\f1\'B7\tab}Test Automation Tools: CI/CD + Jenkins 
-\par {\pntext\f1\'B7\tab}Code quality : Sonarqube 
-\par \pard\cf0\fs20 
+\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\cf1\f0\fs20 Defining a solution using architectural design principles based on customer requirements
+\par {\pntext\f1\'B7\tab}Architecting and deploying secure and robust applications using AWS
+\par {\pntext\f1\'B7\tab}Ability to provide implementation guidance and best practices to the organization throughout the life cycle of a project.
+\par {\pntext\f1\'B7\tab}Hands-on skills using compute, networking, storage, and AWS database services
+\par {\pntext\f1\'B7\tab}Defining and identifying technical requirements for AWS-based applications
+\par {\pntext\f1\'B7\tab}Defining and identifying which AWS services meet a given technical requirement
+\par {\pntext\f1\'B7\tab}Knowledge of recommended best practices for building secure and reliable applications on the AWS platform
+\par {\pntext\f1\'B7\tab}Knowledge of network technologies as they relate to AWS
+\par {\pntext\f1\'B7\tab}Knowledge of security features and tools that AWS provides
+\par {\pntext\f1\'B7\tab}Linux and basic SQL administration skills 
 \par }
 
 </FIELD>
 </DATACARD>
 </BLOCK>
-<BLOCK context="Summary" tablestyle=2054>
+<BLOCK context="Objective" tablestyle=54>
+<TABLE context="ObjectiveHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Segoe UI" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Segoe UI;}}{\colortbl ;\red51\green51\blue51;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 TECHNOLOGY SNAPSHOT\cf0\b0\f1\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="ObjectiveBody">
+<tr>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\cf1\b\f0\fs20 Operating Systems\b0   : RedHat, Ubuntu, CentOS, Amazon Linux, Windows
+\par \b{\pntext\f1\'B7\tab}Cloud Technologies\b0  : Amazon Web Services, Digital Ocean, Linode,  Azure, Google Cloud
+\par \b{\pntext\f1\'B7\tab}Configuration Management Tools\b0  : Ansible, terraform, SYstem Manager
+\par \b{\pntext\f1\'B7\tab}Centralized Logging Tool\b0 : ELK (Elastic Search, LogStash) 
+\par \b{\pntext\f1\'B7\tab}Data Analysis \b0 : Power Bi, Excel, SQL, 
+\par \b{\pntext\f1\'B7\tab}Web servers\b0  : Apache, Tomcat, HTTP, Nginx
+\par \b{\pntext\f1\'B7\tab}Containerization Tools\b0  : Docker, Kubernetes
+\par \b{\pntext\f1\'B7\tab}Build Tools \b0 : Jenkins, Maven, Jfrog Artifactory. AWS Code Pipeline
+\par \b{\pntext\f1\'B7\tab}Databases \b0 : RDS, MySQL, MS SQL, PostgreSql 
+\par \b{\pntext\f1\'B7\tab}Version control system\b0  : GIT, GITHUB, Gitlab, CodeCommit
+\par \b{\pntext\f1\'B7\tab}Scripting\b0  : python, Shell scripting
+\par \b{\pntext\f1\'B7\tab}Tracking Software \b0 : Jira
+\par \b{\pntext\f1\'B7\tab}Monitoring Tool\b0  : AWS Cloud Watch, Prometheus & Grafana
+\par \b{\pntext\f1\'B7\tab}Test Automation Tools \b0 : CI/CD + Jenkins 
+\par \b{\pntext\f1\'B7\tab}Code quality\b0  : Sonarqube 
+\par \pard 
+\par }
+
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Licenses and Certification" tablestyle=54>
+<TABLE context="Licenses and CertificationHeading">
+<tr>
+<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Segoe UI" size="3">\Heading</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}}{\colortbl ;\red0\green0\blue0;\red51\green51\blue51;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 CERTIFICATIONS\cf2\b0 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="Licenses and CertificationBody">
+<tr>
+<td width="100%" celltype="TEXT" field="Ltitle,Delim2,Lname,Delim2,Llocation,Delim2,HMonthStart,Delim1,HYearStart,DateSep,HMonthEnd,Delim1,HYearEnd,Delim5,Description" align="LEFT"><FONT face="Segoe UI" size="3">\Ltitle\Delim2\Lname\Delim2\Llocation\Delim2\HMonthStart\Delim1\HYearStart\DateSep\HMonthEnd\Delim1\HYearEnd\Delim5\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Ltitle fieldtype=Ltitle fontname="Ltitle" font="Ltitle" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" Bullet=TRUE colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Lname fieldtype=Lname fontname="Lname" font="Lname" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Llocation fieldtype=Llocation fontname="Llocation" font="Llocation" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=HMonthStart fieldtype=HMonthStart fontname="hdates" font="hdates" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="hdates" font="hdates" Bullet=TRUE colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=HYearStart fieldtype=HYearStart fontname="hdates" font="hdates" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="hdates" font="hdates" Bullet=TRUE colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=HMonthEnd fieldtype=HMonthEnd fontname="hdates" font="hdates" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=HYearEnd fieldtype=HYearEnd fontname="hdates" font="hdates" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim5 fieldtype=Delimiter fontname="Delim5" font="Delim5" Bullet=TRUE colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 CIDFont+F4;}{\f1\fnil\fcharset2 Symbol;}}\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\b\f0\fs21 AWS Certified Solutions Architect,\b0  Amazon Web Services (AWS), 6/2022\fs20 \par \b\fs21{\pntext\f1\'B7\tab}Scrum Fundamentals Certified\b0  (SFC), SCRUMstudy  10/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}Agile Certification Project Management Training: Agile Scrum\b0 , Udemy, 10/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}IP Addressing and Subnetting - Zero to Hero\b0 , Udemy, 9/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}AWS Cloud Practitioner Essentials\b0 , Amazon Web Services (AWS), 5/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}Google IT Support Professional Specialization\b0 , Coursera | Google, 3/2021\fs20 \par }
+</FIELD>
+</DATACARD>
+</BLOCK>
+<BLOCK context="Summary" tablestyle=1054>
 <TABLE context="comboHeading">
 <tr>
 <td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Segoe UI" size="3">\Heading</font></td>
@@ -366,102 +434,108 @@ Accounting, Finance and Banking
 </TABLE>
 <DATACARD>
 <FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\qc\cf1\b\f0\fs24 PROJECT & EMPLOYMENT HIGHLIGHTS\cf0\b0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\qc\cf1\b\f0\fs24 PROJECT & EMPLOYMENT HIGHLIGHTS\cf0\b0\f1\fs20 <crlf>\par }<crlf>
 </FIELD>
 </DATACARD>
-<TABLE context="comboBody">
+<TABLE context="SummaryBody">
 <tr>
-<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Segoe UI" size="3">\BTopic</font></td>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
 </tr>
 <tr>
-<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Topic fieldtype=Topic>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\f0\fs20 Experience providing infrastructure automation services within public and private cloud to build, configure, manage and deploy multiple number of applications in sdifferent platforms.
+\par {\pntext\f1\'B7\tab}Proficient in strategy and practical implementation of AWS cloud-specific services which include EC2, S3, EBS, EFS, ELB, EMR, ECS, IAM, Lambda, API Gateway, Route53, RDS, Dynamo DB and Security groups on AWS etc..
+\par {\pntext\f1\'B7\tab}Good knowledge with installation of AWS CLI (command line interface) to control various AWS services through SHELL Scripting.
+\par {\pntext\f1\'B7\tab}Good knowledge on container-based deployments of Micro-Services using Docker and Kubernetes.
+\par {\pntext\f1\'B7\tab}Handled large volumes of container cluster with Docker and Kubernetes.
+\par {\pntext\f1\'B7\tab}Virtualized the servers using the Docker for test environments and dev-environments needs and configuration automation using Docker container.
+\par {\pntext\f1\'B7\tab}Expert in creating Docker files, Docker images & containers Docker hub, installation and configuring Kubernetes and clustering them.
+\par {\pntext\f1\'B7\tab}Expertise in designing, development and deploying applications on to several cloud-based solution using configuration management tools like Ansible.
+\par {\pntext\f1\'B7\tab}Experience in writing Playbooks using YAML scripts on Ansible used it for configuration management and orchestration of IT environments and used Ansible for deploying or updating the web application servers' code data. 
+\par {\pntext\f1\'B7\tab}Involved heavily in setting up the CI/CD pipeline using Jenkins, Maven, Nexus, Ansible, Terraform and AWS.
+\par {\pntext\f1\'B7\tab}Expertise in using build tools like Maven and ANT for the building of deployable artifacts such as war & jar from source code.
+\par {\pntext\f1\'B7\tab}Extensive experience in branching, tagging and maintaining the version across the environments using SCM tools like GIT and Subversion \tab (SVN) on Linux and Windows. 
+\par {\pntext\f1\'B7\tab}Configured Continuous Integration (CI) tools Jenkins/Hudson from scratch. Installed Jenkins, created build jobs, set up distributed build systems, Handle custom Plugins, Administration, Backup and Migration activities.
+\par {\pntext\f1\'B7\tab}Daily activities included, delivering daily and nightly builds for the testing teams, supporting SCM requests, maintaining code stability using C.I methodologies, code merging, deployments and troubleshooting other day-to-day issues.
+\par {\pntext\f1\'B7\tab}Good knowledge in analyzing bugs, interacting with development and QA teams to fix the defects and build failures.
+\par {\pntext\f1\'B7\tab}Sending daily build and deployment status mails to related teams.
+\par {\pntext\f1\'B7\tab}Experience in Junit, Sonar, Cobertura, Jira.
+\par {\pntext\f1\'B7\tab}Good hands on experience with Tomcat application servers for deployments.
+\par {\pntext\f1\'B7\tab}Good experience in SHELL scripting.
+\par {\pntext\f1\'B7\tab}Accelerate application delivery with greater productivity and reliability.
+\par {\pntext\f1\'B7\tab}Good Hands on experience with Unix/Linux.
+\par {\pntext\f1\'B7\tab}Good knowledge in planning and updating development, QA and staging environments with different code bases, based on requirements.
+\par \pard 
+\par }
+
+</FIELD>
+<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
 Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary
 </FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
 Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary
 </FIELD>
-<FIELD key=Description fieldtype=Description>
-[ Enter a description; click the Plus sign to add cards. ]
-</FIELD>
 </DATACARD>
 <TABLE context="SummaryBody">
 <tr>
-<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Segoe UI" size="3">\BTopic</font></td>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
 </tr>
 <tr>
-<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Topic fieldtype=Topic>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
 Key contributor in 4-person team assigned ambitious project to replace ineffective and erroneous manufacturing tracking and payroll systems. Devised the design for the $US 2 million project that won management support and later spread to all plants in the USA, Mexico, and Central America—with implementation pending in Europe and Asia.
 </FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
 Key contributor in 4-person team assigned ambitious project to replace ineffective and erroneous manufacturing tracking and payroll systems. Devised the design for the $US 2 million project that won management support and later spread to all plants in the USA, Mexico, and Central America—with implementation pending in Europe and Asia.
 </FIELD>
-<FIELD key=Description fieldtype=Description>
-[ Enter a description; click the Plus sign to add cards. ]
-</FIELD>
 </DATACARD>
 <TABLE context="SummaryBody">
 <tr>
-<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Segoe UI" size="3">\BTopic</font></td>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
 </tr>
 <tr>
-<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Topic fieldtype=Topic>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
 Pioneered the use of GIS in the law enforcement sector by designing Crime Guard a GIS application that refined the methods of analysis for the police department in Apizaco, Mexico. Met the “go-live” data for implementation with a system that housed digitized city maps, incidences of crimes, and offender details.
 </FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
 Pioneered the use of GIS in the law enforcement sector by designing Crime Guard a GIS application that refined the methods of analysis for the police department in Apizaco, Mexico. Met the “go-live” data for implementation with a system that housed digitized city maps, incidences of crimes, and offender details.
 </FIELD>
-<FIELD key=Description fieldtype=Description>
-[ Enter a description; click the Plus sign to add cards. ]
-</FIELD>
 </DATACARD>
 <TABLE context="SummaryBody">
 <tr>
-<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Segoe UI" size="3">\BTopic</font></td>
+<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
 </tr>
 <tr>
-<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Topic fieldtype=Topic>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
 Take a lead role as part of an experienced DevOps team in supporting business-critical services within an AWS cloud hosting environment for a growing, fast-paced healthcare startup<crlf>Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary<crlf>Lead DevOps projects as part of the DevOps team with a focus on t
 </FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
+<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
 Take a lead role as part of an experienced DevOps team in supporting business-critical services within an AWS cloud hosting environment for a growing, fast-paced healthcare startup<crlf>Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary<crlf>Lead DevOps projects as part of the DevOps team with a focus on t
-</FIELD>
-<FIELD key=Description fieldtype=Description>
-[ Enter a description; click the Plus sign to add cards. ]
-</FIELD>
-</DATACARD>
-<TABLE context="SummaryBody">
-<tr>
-<td width="100%" celltype="TEXT" field="BTopic" align="LEFT"><FONT face="Segoe UI" size="3">\BTopic</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="SECTIONSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Topic fieldtype=Topic>
-Top 5 placement at the ACM International Collegiate Programming Contest, Region Mexico, 1996.
-</FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" Bullet=TRUE colored=False fieldcolor=0>
-Top 5 placement at the ACM International Collegiate Programming Contest, Region Mexico, 1996.
-</FIELD>
-<FIELD key=Description fieldtype=Description>
-[ Enter a description; click the Plus sign to add cards. ]
 </FIELD>
 </DATACARD>
 </BLOCK>
@@ -476,7 +550,7 @@ Top 5 placement at the ACM International Collegiate Programming Contest, Region 
 </TABLE>
 <DATACARD>
 <FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\qc\cf1\b\f0\fs24 RELEVANT EXPERIENCE\cf0\b0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\qc\cf1\b\f0\fs24 RELEVANT EXPERIENCE\cf0\b0 <crlf>\par }<crlf>
 </FIELD>
 </DATACARD>
 <TABLE context="EmploymentBody">
@@ -507,7 +581,7 @@ AWS DevOps Engineer
 <FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
 
 </FIELD>
-<FIELD key=SDelim8 fieldtype=SDelim8>
+<FIELD key=SDelim8 fieldtype=SDelim8 fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
 
 </FIELD>
 <FIELD key=EMonthStart fieldtype=EMonthStart fontname="EMonthStart" font="EMonthStart" colored=False fieldcolor=0>
@@ -528,20 +602,72 @@ Present
 <FIELD key=EYearEnd fieldtype=EYearEnd fontname="EYearEnd" font="EYearEnd" colored=False fieldcolor=0>
 
 </FIELD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}
-{\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\cf1\f0\fs20 Take a lead role as part of an experienced DevOps team in supporting business-critical services within an AWS cloud hosting environment for growing, fast-paced startups
-\par {\pntext\f1\'B7\tab}Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary
-\par {\pntext\f1\'B7\tab}Lead DevOps projects as part of the DevOps team with a focus on taking all necessary steps for delivery, such as stakeholder communication and change management planning
-\par {\pntext\f1\'B7\tab}Develop, troubleshoot, and maintain the continuous integration and deployment pipelines in close partnership with the application engineering teams
-\par {\pntext\f1\'B7\tab}Work closely with othe engineers, QA, and DBAs to ensure all environments are functional and configured correctly
-\par {\pntext\f1\'B7\tab}Create and help maintain the underlying AWS infrastructure for hosted applications and services as necessary
-\par {\pntext\f1\'B7\tab}Implement and support observability and alerting tools such as CloudWatch and New Relic for proactive responses to all technical issues
-\par {\pntext\f1\'B7\tab}Document troubleshooting steps/runbooks/procedures via an internal knowledge base and work to share knowledge among team members
-\par {\pntext\f1\'B7\tab}Advance, Champion and implement cloud and application security best practices
-\par {\pntext\f1\'B7\tab}Help grow and champion infrastructure-as-code approaches via Terraform, Cloudformation, or AWS CDK
-\par {\pntext\f1\'B7\tab}Always available for on-call rotation schedule to troubleshoot problems and incidents\cf0\fs20 
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\cf1\f0\fs20 Take a lead role as part of an experienced DevOps team in supporting business-critical services within an AWS cloud hosting environment for growing, fast-paced startups\par {\pntext\f1\'B7\tab}Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary\par {\pntext\f1\'B7\tab}Lead DevOps projects as part of the DevOps team with a focus on taking all necessary steps for delivery, such as stakeholder communication and change management planning\par {\pntext\f1\'B7\tab}Develop, troubleshoot, and maintain the continuous integration and deployment pipelines in close partnership with the application engineering teams\par {\pntext\f1\'B7\tab}Work closely with othe engineers, QA, and DBAs to ensure all environments are functional and configured correctly\par {\pntext\f1\'B7\tab}Create and help maintain the underlying AWS infrastructure for hosted applications and services as necessary\par {\pntext\f1\'B7\tab}Implement and support observability and alerting tools such as CloudWatch and New Relic for proactive responses to all technical issues\par {\pntext\f1\'B7\tab}Document troubleshooting steps/runbooks/procedures via an internal knowledge base and work to share knowledge among team members\par {\pntext\f1\'B7\tab}Advance, Champion and implement cloud and application security best practices\par {\pntext\f1\'B7\tab}Help grow and champion infrastructure-as-code approaches via Terraform, Cloudformation, or AWS CDK\par {\pntext\f1\'B7\tab}Always available for on-call rotation schedule to troubleshoot problems and incidents\cf0 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="70%" celltype="TEXT" field="Company,Delim2,Eposition,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Eposition\Delim2\Elocation</font></td>
+<td width="30%" celltype="TEXT" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" colspan="2" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+JJ Tech Inc [CRESCENT PACK]
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+DevOps/Cloud Engineer
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim8 fieldtype=SDelim8 fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=EMonthStart fieldtype=EMonthStart fontname="EMonthStart" font="EMonthStart" colored=False fieldcolor=0>
+May
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="Delim1" font="Delim1" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=EYearStart fontname="EYearStart" font="EYearStart" colored=False fieldcolor=0>
+2019
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="DateSep" font="DateSep" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=EMonthEnd fontname="EMonthEnd" font="EMonthEnd" colored=False fieldcolor=0>
+August
+</FIELD>
+<FIELD key=EYearEnd fieldtype=EYearEnd fontname="EYearEnd" font="EYearEnd" colored=False fieldcolor=0>
+2020
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}{\f2\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent0{\pntxtb\'B7}}\fi-270\li270\expndtw4\f0\fs20 Provisioned the highly available EC2 Instances, VPC/S3/SQS/SNS based infrastructure automation using Terraform and cloud formation.
+\par {\pntext\f2\'B7\tab}Adopted Terraform, written Templates for AWS IaaC to build staging and production environments.
+\par {\pntext\f2\'B7\tab}Created and managed IAM users & groups, defining roles and policies and Identity providers and used them to restrict access to certain buckets.
+\par {\pntext\f2\'B7\tab}Installation, configuration, and maintenance of different Linux Distribution servers like Debian, RHEL, CentOS and SUSE Servers at multiple Data Center.
+\par {\pntext\f2\'B7\tab}Experience with configuring and managing Elastic Load Balancing (ELB) to implement fault tolerance and avoid single point of failure of applications.
+\par {\pntext\f2\'B7\tab}Apache Maven is used as build tool and Nexus is used as a source for artifacts needed for a build, and a target to deploy artifacts generated in the build process.
+\par {\pntext\f2\'B7\tab}Created a fully Automated Build and Deployment Platform and coordinating code builds, promotions and orchestrated deployments using Jenkins, Ansible and GIT.
+\par {\pntext\f2\'B7\tab}Responsible for the Plugin Management, build and deploy on Jenkins Pipeline Setup and End-End Job Setup of all the projects. 
+\par {\pntext\f2\'B7\tab}Used CloudFront to deliver content from AWS edge locations to users, allowing for further reduction of load on front-end servers.
+\par {\pntext\f2\'B7\tab}Implemented a 'server less' architecture using API Gateway, Lambda, and Dynamo DB and deployed AWS Lambda code from Amazon S3 buckets. Created a Lambda Deployment function, and configured it to receive events from your S3 bucket.
+\par {\pntext\f2\'B7\tab}Automated AWS volumes snapshot backups for enterprise using Lambda.\expndtw0\f1 
 \par }
 
 </FIELD>
@@ -559,9 +685,6 @@ Present
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Delim3 fieldtype=Delimiter>
-, 
-</FIELD>
 <FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
 Newco Investments Limited
 </FIELD>
@@ -572,44 +695,34 @@ Newco Investments Limited
 Executive Assistant/IT Support Engineer
 </FIELD>
 <FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
-Nigeria
+
 </FIELD>
-<FIELD key=SDelim8 fieldtype=SDelim8>
+<FIELD key=SDelim8 fieldtype=SDelim8 fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
 
 </FIELD>
 <FIELD key=EMonthStart fieldtype=EMonthStart fontname="EMonthStart" font="EMonthStart" colored=False fieldcolor=0>
-
+January
 </FIELD>
 <FIELD key=Delim1 fieldtype=Delimiter fontname="Delim1" font="Delim1" colored=False fieldcolor=0>
  
 </FIELD>
 <FIELD key=EYearStart fieldtype=EYearStart fontname="EYearStart" font="EYearStart" colored=False fieldcolor=0>
-20xx
+2013
 </FIELD>
 <FIELD key=DateSep fieldtype=Delimiter fontname="DateSep" font="DateSep" colored=False fieldcolor=0>
  - 
 </FIELD>
 <FIELD key=EMonthEnd fieldtype=EMonthEnd fontname="EMonthEnd" font="EMonthEnd" colored=False fieldcolor=0>
-
+August
 </FIELD>
 <FIELD key=EYearEnd fieldtype=EYearEnd fontname="EYearEnd" font="EYearEnd" colored=False fieldcolor=0>
-20xx
+2018
 </FIELD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}
-{\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\cf1\f0\fs20 Act as a strategic administrative partner to the Group Chairman and other management team by providing a high level of confidential administrative support
-\par {\pntext\f1\'B7\tab}Responsible for deploymnt and maintenance of IT infrasture of the Group's Livestock Farms
-\par {\pntext\f1\'B7\tab}Performed upgrades and installed updates.
-\par {\pntext\f1\'B7\tab}Applied tools and applications for monitoring desktop performance and provide
-\par {\pntext\f1\'B7\tab}performance statistics and reports.
-\par {\pntext\f1\'B7\tab}Collaborate in maintenance and operation of our network.
-\par {\pntext\f1\'B7\tab}Delivered troubleshooting solutions to departments and console operators
-\par {\pntext\f1\'B7\tab}experiencing difficulties with the software, hardware, and network connectivity.
-\par {\pntext\f1\'B7\tab}Organize enhanced performance figures for the IT team and department to meet stated
-\par {\pntext\f1\'B7\tab}management expectations and relevant standards.\cf0\fs20 
-\par }
-
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\cf1\f0\fs20 Act as a strategic administrative partner to the Group Chairman and other management team by providing a high level of confidential administrative support\par {\pntext\f1\'B7\tab}Responsible for deploymnt and maintenance of IT infrasture of the Group's Livestock Farms\par {\pntext\f1\'B7\tab}Performed upgrades and installed updates.\par {\pntext\f1\'B7\tab}Applied tools and applications for monitoring desktop performance and provide\par {\pntext\f1\'B7\tab}performance statistics and reports.\par {\pntext\f1\'B7\tab}Collaborate in maintenance and operation of our network.\par {\pntext\f1\'B7\tab}Delivered troubleshooting solutions to departments and console operators\par {\pntext\f1\'B7\tab}experiencing difficulties with the software, hardware, and network connectivity.\par {\pntext\f1\'B7\tab}Organize enhanced performance figures for the IT team and department to meet stated\par {\pntext\f1\'B7\tab}management expectations and relevant standards.\cf0 \par }
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delim3 fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
+, 
 </FIELD>
 </DATACARD>
 </BLOCK>
@@ -624,7 +737,7 @@ Nigeria
 </TABLE>
 <DATACARD>
 <FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 OTHER EMPLOYMENT SUMMARY\cf0\b0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Segoe UI;}}{\colortbl ;\red51\green51\blue51;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 PREVIOUS EXPERIENCE\cf0\b0\f1\fs20 \par }
 </FIELD>
 </DATACARD>
 <TABLE context="EmploymentBody">
@@ -640,9 +753,59 @@ Nigeria
 </tr>
 </TABLE>
 <DATACARD>
-<FIELD key=Delim3 fieldtype=Delimiter>
+<FIELD key=Delim3 fieldtype=Delimiter fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
 , 
 </FIELD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+Michael Stevens Consulting
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+HR Consultant
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Nigeria
+</FIELD>
+<FIELD key=SDelim8 fieldtype=SDelim8 fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=EMonthStart fieldtype=EMonthStart fontname="EMonthStart" font="EMonthStart" colored=False fieldcolor=0>
+August
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="Delim1" font="Delim1" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=EYearStart fontname="EYearStart" font="EYearStart" colored=False fieldcolor=0>
+2011
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="DateSep" font="DateSep" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=EMonthEnd fontname="EMonthEnd" font="EMonthEnd" colored=False fieldcolor=0>
+December
+</FIELD>
+<FIELD key=EYearEnd fieldtype=EYearEnd fontname="EYearEnd" font="EYearEnd" colored=False fieldcolor=0>
+2012
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}\viewkind4\uc1\pard\f0\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="70%" celltype="TEXT" field="Company,Delim2,Eposition,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Eposition\Delim2\Elocation</font></td>
+<td width="30%" celltype="TEXT" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" colspan="2" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
 <FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
 Uptown Technologies
 </FIELD>
@@ -655,7 +818,7 @@ IT Support Supervisor (Network/ISP)
 <FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
 Nigeria
 </FIELD>
-<FIELD key=SDelim8 fieldtype=SDelim8>
+<FIELD key=SDelim8 fieldtype=SDelim8 fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
 
 </FIELD>
 <FIELD key=EMonthStart fieldtype=EMonthStart fontname="EMonthStart" font="EMonthStart" colored=False fieldcolor=0>
@@ -676,11 +839,61 @@ June
 <FIELD key=EYearEnd fieldtype=EYearEnd fontname="EYearEnd" font="EYearEnd" colored=False fieldcolor=0>
 2011
 </FIELD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
-\viewkind4\uc1\pard\f0\fs20 
-\par }
-
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}\viewkind4\uc1\pard\f0\fs20 \par }
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delim3 fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
+, 
+</FIELD>
+</DATACARD>
+<TABLE context="EmploymentBody">
+<tr>
+<td width="70%" celltype="TEXT" field="Company,Delim2,Eposition,Delim2,Elocation" align="LEFT"><FONT face="Segoe UI" size="3">\Company\Delim2\Eposition\Delim2\Elocation</font></td>
+<td width="30%" celltype="TEXT" field="EMonthStart,Delim1,EYearStart,DateSep,EMonthEnd,Delim1,EYearEnd" align="RIGHT"><FONT face="Segoe UI" size="3">\EMonthStart\Delim1\EYearStart\DateSep\EMonthEnd\Delim1\EYearEnd</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="Description" colspan="2" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=Company fieldtype=Company fontname="Company" font="Company" colored=False fieldcolor=0>
+Visualtech Ltd (IT Trainers)
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter>
+, 
+</FIELD>
+<FIELD key=Eposition fieldtype=Eposition fontname="Eposition" font="Eposition" colored=False fieldcolor=0>
+IT Instructor
+</FIELD>
+<FIELD key=Elocation fieldtype=Elocation fontname="Elocation" font="Elocation" colored=False fieldcolor=0>
+Nigeria
+</FIELD>
+<FIELD key=SDelim8 fieldtype=SDelim8 fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=EMonthStart fieldtype=EMonthStart fontname="EMonthStart" font="EMonthStart" colored=False fieldcolor=0>
+January
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="Delim1" font="Delim1" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=EYearStart fieldtype=EYearStart fontname="EYearStart" font="EYearStart" colored=False fieldcolor=0>
+1999
+</FIELD>
+<FIELD key=DateSep fieldtype=Delimiter fontname="DateSep" font="DateSep" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=EMonthEnd fieldtype=EMonthEnd fontname="EMonthEnd" font="EMonthEnd" colored=False fieldcolor=0>
+January
+</FIELD>
+<FIELD key=EYearEnd fieldtype=EYearEnd fontname="EYearEnd" font="EYearEnd" colored=False fieldcolor=0>
+2005
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}\viewkind4\uc1\pard\f0\fs20 \par }
 </FIELD>
 </DATACARD>
 </BLOCK>
@@ -695,7 +908,7 @@ June
 </TABLE>
 <DATACARD>
 <FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 EDUCATION\cf0\b0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Segoe UI;}}{\colortbl ;\red51\green51\blue51;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 EDUCATION\cf0\b0\f1\fs20 \par }
 </FIELD>
 </DATACARD>
 <TABLE context="EducationBody">
@@ -724,7 +937,7 @@ Minor:
 . 
 </FIELD>
 <FIELD key=DegreeType fieldtype=DegreeType fontname="eddates" font="eddates" colored=False fieldcolor=0>
-Master of Business Systems
+DevOps with AWS Certificate 
 </FIELD>
 <FIELD key=Degree fieldtype=Degree fontname="eddates" font="eddates" colored=False fieldcolor=0>
 
@@ -769,11 +982,7 @@ Major GPA:
  - 
 </FIELD>
 <FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
-{\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\qc\cf1\f0\fs20 Master of Business Systems Monash University, Australia (2003)\cf0\fs20 
-\par }
-
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\f0\fs20 Mithun Software Solutions Bangalore India (2021)\par }
 </FIELD>
 </DATACARD>
 <TABLE context="EducationBody">
@@ -802,7 +1011,7 @@ Minor:
 . 
 </FIELD>
 <FIELD key=DegreeType fieldtype=DegreeType fontname="eddates" font="eddates" colored=False fieldcolor=0>
-Certificate in Finance Administration
+Master of Business Administration
 </FIELD>
 <FIELD key=Degree fieldtype=Degree fontname="eddates" font="eddates" colored=False fieldcolor=0>
 
@@ -847,11 +1056,7 @@ Major GPA:
  - 
 </FIELD>
 <FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
-{\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\qc\cf1\f0\fs20 University of Las Americas Puebla, Mexico (2002)\cf0\fs20 
-\par }
-
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\qc\cf1\f0\fs20 Abridged MBA, Metropolitan School of Business and Management, UK (2014)\cf0 \par }
 </FIELD>
 </DATACARD>
 <TABLE context="EducationBody">
@@ -880,10 +1085,10 @@ Minor:
 . 
 </FIELD>
 <FIELD key=DegreeType fieldtype=DegreeType fontname="eddates" font="eddates" colored=False fieldcolor=0>
-Bachelor of Science
+Certificate in Information and Communication Technology
 </FIELD>
 <FIELD key=Degree fieldtype=Degree fontname="eddates" font="eddates" colored=False fieldcolor=0>
-(Computer Systems Engineering)
+
 </FIELD>
 <FIELD key=SDelim0 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
 Minor: 
@@ -903,7 +1108,7 @@ Minor:
 <FIELD key=School fieldtype=School fontname="School" font="School" colored=False fieldcolor=0>
 
 </FIELD>
-<FIELD key=Delim2 fieldtype=Delimiter>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="Delim2" font="Delim2" colored=False fieldcolor=0>
 , 
 </FIELD>
 <FIELD key=EdLocation fieldtype=EdLocation fontname="EdLocation" font="EdLocation" colored=False fieldcolor=0>
@@ -925,13 +1130,81 @@ Major GPA:
  - 
 </FIELD>
 <FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
-{\colortbl ;\red0\green0\blue0;}
-\viewkind4\uc1\pard\qc\cf1\f0\fs20 University of Las Americas Puebla, Mexico (1999) International Exchange Student Cambridge University, England (1998)
-\par 
-\par Extensive training includes Japanese for Beginners, Mastering Professional Selling Skills, and Customer Service. Attended the ACS National Conference-Australian Computer Society\cf0\fs20 
-\par }
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 CIDFont+F4;}{\f1\fnil\fcharset0 Segoe UI;}}{\colortbl ;\red0\green0\blue0;\red5\green99\blue194;}\viewkind4\uc1\pard\cf1\f0\fs21 IMT Computers (\cf2 www.IMTComputer.net\cf1 ) (2004)\cf0\f1\fs20 \par }
+</FIELD>
+</DATACARD>
+<TABLE context="EducationBody">
+<tr>
+<td width="70%" celltype="TEXT" field="DegreeType,Delim2,Degree,Delim2,SDelim0,Minor" align="LEFT"><FONT face="Segoe UI" size="3">\DegreeType\Delim2\Degree\Delim2\SDelim0\Minor</font></td>
+<td width="30%" celltype="TEXT" field="GradMonth,Delim1,GradYear" align="RIGHT"><FONT face="Segoe UI" size="3">\GradMonth\Delim1\GradYear</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="TEXT" field="School,Delim2,EdLocation,Delim2,SDelim5,GPA,Delim2,SDelim4,MajorGPA,Delim6,Description" colspan="2" align="LEFT"><FONT face="Segoe UI" size="3">\School\Delim2\EdLocation\Delim2\SDelim5\GPA\Delim2\SDelim4\MajorGPA\Delim6\Description</font></td>
+</tr>
+<tr>
+<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
+</tr>
+</TABLE>
+<DATACARD>
+<FIELD key=DegreeType fieldtype=DegreeType fontname="eddates" font="eddates" colored=False fieldcolor=0>
+Bachelor of Agriculture
+</FIELD>
+<FIELD key=Delim2 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Degree fieldtype=Degree fontname="Degree" font="Degree" colored=False fieldcolor=0>
 
+</FIELD>
+<FIELD key=SDelim0 fieldtype=Delimiter fontname="eddates" font="eddates" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=Minor fieldtype=Minor fontname="Minor" font="Minor" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=GradMonth fieldtype=GradMonth fontname="GradMonth" font="GradMonth" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim1 fieldtype=Delimiter fontname="Delim1" font="Delim1" colored=False fieldcolor=0>
+ 
+</FIELD>
+<FIELD key=GradYear fieldtype=GradYear fontname="GradYear" font="GradYear" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=School fieldtype=School fontname="School" font="School" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=EdLocation fieldtype=EdLocation fontname="EdLocation" font="EdLocation" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim5 fieldtype=Delimiter fontname="SDelim5" font="SDelim5" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=GPA fieldtype=GPA fontname="GPA" font="GPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=SDelim4 fieldtype=Delimiter fontname="SDelim4" font="SDelim4" colored=False fieldcolor=0>
+Major GPA: 
+</FIELD>
+<FIELD key=MajorGPA fieldtype=MajorGPA fontname="MajorGPA" font="MajorGPA" colored=False fieldcolor=0>
+
+</FIELD>
+<FIELD key=Delim6 fieldtype=Delimiter fontname="Delim6" font="Delim6" colored=False fieldcolor=0>
+ - 
+</FIELD>
+<FIELD key=Description fieldtype=Description fontname="Description" font="Description" colored=False fieldcolor=0>
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}{\colortbl ;\red0\green0\blue0;}\viewkind4\uc1\pard\cf1\f0\fs20 Bachelor of Agriculture, University of Agriculture, Abeokuta, Nigeria (1997)\par }
+</FIELD>
+<FIELD key=SDelim8 fieldtype=SDelim8 fontname="SDelim8" font="SDelim8" colored=False fieldcolor=0>
+GPA: 
+</FIELD>
+<FIELD key=SDelim7 fieldtype=SDelim7 fontname="SDelim7" font="SDelim7" colored=False fieldcolor=0>
+Minor: 
+</FIELD>
+<FIELD key=Delim0 fieldtype=Delim0 fontname="Delim0" font="Delim0" colored=False fieldcolor=0>
+, 
+</FIELD>
+<FIELD key=Delim3 fieldtype=Delim3 fontname="Delim3" font="Delim3" colored=False fieldcolor=0>
+. 
 </FIELD>
 </DATACARD>
 </BLOCK>
