@@ -146,7 +146,7 @@ ResumeMaker software.
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17  of \cf0\fs20 <crlf>\par }<crlf>
 </FIELD>
 <FIELD key=PageCount fieldtype=Text fontname="ftrname" font="ftrname" colored=True fieldcolor=10066329>
-{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 4\cf0\fs20 <crlf>\par }<crlf>
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 3\cf0\fs20 <crlf>\par }<crlf>
 </FIELD>
 <FIELD key=PageNum fieldtype=Text fontname="ftrname" font="ftrname" colored=True fieldcolor=10066329>
 {\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red153\green153\blue153;}<crlf>\viewkind4\uc1\pard\cf1\lang1033\f0\fs17 1\cf0\fs20 <crlf>\par }<crlf>
@@ -420,122 +420,6 @@ Accounting, Finance and Banking
 </FIELD>
 <FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
 {\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 CIDFont+F4;}{\f1\fnil\fcharset2 Symbol;}}\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\b\f0\fs21 AWS Certified Solutions Architect,\b0  Amazon Web Services (AWS), 6/2022\fs20 \par \b\fs21{\pntext\f1\'B7\tab}Scrum Fundamentals Certified\b0  (SFC), SCRUMstudy  10/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}Agile Certification Project Management Training: Agile Scrum\b0 , Udemy, 10/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}IP Addressing and Subnetting - Zero to Hero\b0 , Udemy, 9/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}AWS Cloud Practitioner Essentials\b0 , Amazon Web Services (AWS), 5/2021\fs20 \par \b\fs21{\pntext\f1\'B7\tab}Google IT Support Professional Specialization\b0 , Coursera | Google, 3/2021\fs20 \par }
-</FIELD>
-</DATACARD>
-</BLOCK>
-<BLOCK context="Summary" tablestyle=1054>
-<TABLE context="comboHeading">
-<tr>
-<td width="100%" celltype="HEADING" field="Heading" align="CENTER"><FONT face="Segoe UI" size="3">\Heading</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Heading fieldtype=Heading fontname="Heading" font="Heading" colored=True fieldcolor=3355443>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI Semibold;}{\f1\fnil\fcharset0 Segoe UI;}}<crlf>{\colortbl ;\red51\green51\blue51;}<crlf>\viewkind4\uc1\pard\qc\cf1\b\f0\fs24 PROJECT & EMPLOYMENT HIGHLIGHTS\cf0\b0\f1\fs20 <crlf>\par }<crlf>
-</FIELD>
-</DATACARD>
-<TABLE context="SummaryBody">
-<tr>
-<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
-{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset2 Symbol;}}
-\viewkind4\uc1\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-270\li270\f0\fs20 Experience providing infrastructure automation services within public and private cloud to build, configure, manage and deploy multiple number of applications in sdifferent platforms.
-\par {\pntext\f1\'B7\tab}Proficient in strategy and practical implementation of AWS cloud-specific services which include EC2, S3, EBS, EFS, ELB, EMR, ECS, IAM, Lambda, API Gateway, Route53, RDS, Dynamo DB and Security groups on AWS etc..
-\par {\pntext\f1\'B7\tab}Good knowledge with installation of AWS CLI (command line interface) to control various AWS services through SHELL Scripting.
-\par {\pntext\f1\'B7\tab}Good knowledge on container-based deployments of Micro-Services using Docker and Kubernetes.
-\par {\pntext\f1\'B7\tab}Handled large volumes of container cluster with Docker and Kubernetes.
-\par {\pntext\f1\'B7\tab}Virtualized the servers using the Docker for test environments and dev-environments needs and configuration automation using Docker container.
-\par {\pntext\f1\'B7\tab}Expert in creating Docker files, Docker images & containers Docker hub, installation and configuring Kubernetes and clustering them.
-\par {\pntext\f1\'B7\tab}Expertise in designing, development and deploying applications on to several cloud-based solution using configuration management tools like Ansible.
-\par {\pntext\f1\'B7\tab}Experience in writing Playbooks using YAML scripts on Ansible used it for configuration management and orchestration of IT environments and used Ansible for deploying or updating the web application servers' code data. 
-\par {\pntext\f1\'B7\tab}Involved heavily in setting up the CI/CD pipeline using Jenkins, Maven, Nexus, Ansible, Terraform and AWS.
-\par {\pntext\f1\'B7\tab}Expertise in using build tools like Maven and ANT for the building of deployable artifacts such as war & jar from source code.
-\par {\pntext\f1\'B7\tab}Extensive experience in branching, tagging and maintaining the version across the environments using SCM tools like GIT and Subversion \tab (SVN) on Linux and Windows. 
-\par {\pntext\f1\'B7\tab}Configured Continuous Integration (CI) tools Jenkins/Hudson from scratch. Installed Jenkins, created build jobs, set up distributed build systems, Handle custom Plugins, Administration, Backup and Migration activities.
-\par {\pntext\f1\'B7\tab}Daily activities included, delivering daily and nightly builds for the testing teams, supporting SCM requests, maintaining code stability using C.I methodologies, code merging, deployments and troubleshooting other day-to-day issues.
-\par {\pntext\f1\'B7\tab}Good knowledge in analyzing bugs, interacting with development and QA teams to fix the defects and build failures.
-\par {\pntext\f1\'B7\tab}Sending daily build and deployment status mails to related teams.
-\par {\pntext\f1\'B7\tab}Experience in Junit, Sonar, Cobertura, Jira.
-\par {\pntext\f1\'B7\tab}Good hands on experience with Tomcat application servers for deployments.
-\par {\pntext\f1\'B7\tab}Good experience in SHELL scripting.
-\par {\pntext\f1\'B7\tab}Accelerate application delivery with greater productivity and reliability.
-\par {\pntext\f1\'B7\tab}Good Hands on experience with Unix/Linux.
-\par {\pntext\f1\'B7\tab}Good knowledge in planning and updating development, QA and staging environments with different code bases, based on requirements.
-\par \pard 
-\par }
-
-</FIELD>
-<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
-Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary
-</FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
-Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary
-</FIELD>
-</DATACARD>
-<TABLE context="SummaryBody">
-<tr>
-<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
-
-</FIELD>
-<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
-Key contributor in 4-person team assigned ambitious project to replace ineffective and erroneous manufacturing tracking and payroll systems. Devised the design for the $US 2 million project that won management support and later spread to all plants in the USA, Mexico, and Central America—with implementation pending in Europe and Asia.
-</FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
-Key contributor in 4-person team assigned ambitious project to replace ineffective and erroneous manufacturing tracking and payroll systems. Devised the design for the $US 2 million project that won management support and later spread to all plants in the USA, Mexico, and Central America—with implementation pending in Europe and Asia.
-</FIELD>
-</DATACARD>
-<TABLE context="SummaryBody">
-<tr>
-<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
-
-</FIELD>
-<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
-Pioneered the use of GIS in the law enforcement sector by designing Crime Guard a GIS application that refined the methods of analysis for the police department in Apizaco, Mexico. Met the “go-live” data for implementation with a system that housed digitized city maps, incidences of crimes, and offender details.
-</FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
-Pioneered the use of GIS in the law enforcement sector by designing Crime Guard a GIS application that refined the methods of analysis for the police department in Apizaco, Mexico. Met the “go-live” data for implementation with a system that housed digitized city maps, incidences of crimes, and offender details.
-</FIELD>
-</DATACARD>
-<TABLE context="SummaryBody">
-<tr>
-<td width="100%" celltype="DESCRIPTION" field="Description" align="LEFT"><FONT face="Segoe UI" size="3">\Description</font></td>
-</tr>
-<tr>
-<td width="100%" celltype="HEADINGSPACE" field="" align="LEFT"><FONT face="Segoe UI" size="3"></font></td>
-</tr>
-</TABLE>
-<DATACARD>
-<FIELD key=Description fieldtype=Description fontname="Description" font="Description" Bullet=TRUE colored=False fieldcolor=0>
-
-</FIELD>
-<FIELD key=Topic fieldtype=Topic fontname="Topic" font="Topic" colored=False fieldcolor=0>
-Take a lead role as part of an experienced DevOps team in supporting business-critical services within an AWS cloud hosting environment for a growing, fast-paced healthcare startup<crlf>Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary<crlf>Lead DevOps projects as part of the DevOps team with a focus on t
-</FIELD>
-<FIELD key=BTopic fieldtype=BTopic fontname="BTopic" font="BTopic" colored=False fieldcolor=0>
-Take a lead role as part of an experienced DevOps team in supporting business-critical services within an AWS cloud hosting environment for a growing, fast-paced healthcare startup<crlf>Provide architecture, solutions, and implementation support for technical requirements using modern architectural approaches including containers, Kubernetes, AWS tools, services, and serverless. Write code/scripts as part of the solution as necessary<crlf>Lead DevOps projects as part of the DevOps team with a focus on t
 </FIELD>
 </DATACARD>
 </BLOCK>
